@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: Talks
-description: List of previous and upcoming research talks.
+description: 
 nav: true
 nav_order: 2
 ---
