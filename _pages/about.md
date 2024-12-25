@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title: About
 permalink: /
 subtitle: <a href='https://people.miami.edu/profile/7abce556c6974d74e71c89fb865e4553'>University of Miami Herbert Business School</a>
