@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 <p> <a href="https://people.miami.edu/profile/nxh558@miami.edu/"> Nina Huang </a> is an Associate Professor of Business Technology at the Miami Herbert Business School, University of Miami, Florida. Nina's expertise centers on understanding how digital technology can enhance user experiences and improve business outcomes. Her research program covers a range of digital contexts, including live streaming, online dating, online learning, online healthcare, mobile applications, and digital commerce. Nina currently serves as a Senior Editor at <em>Production and Operations Management</em>, an Associate Editor at <em>Information Systems Research</em>, and the Vice President of INFORMS Information Systems Society.</p>
 
 <h4>Research Contribution</h4>
-Dr. Huang's research has been published in premier journals (listed in <a href="https://www.ft.com/content/3405a512-5cbb-11e1-8f1f-00144feabdc0"> Financial Times top 50 Journals</a> and <a href="https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings"> UTD24 Journals</a>) across multiple disciplines:
+Dr. Huang's research has been published in premier journals (listed in <a href="https://www.ft.com/content/3405a512-5cbb-11e1-8f1f-00144feabdc0"> Financial Times Top 50 Journals</a> and <a href="https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings"> UTD24 Journals</a>) across multiple disciplines:
 <ul>
     <li>Interdiscplinary
     <ul style="list-style-type: none;">
@@ -47,6 +47,6 @@ Nina has received many awards and recognitions, including <a href="https://pubso
 </p>
 
 <p>
-  You can connect with Nina <a href="https://www.linkedin.com/in/nina-huang"> on LinkedIn here</a>.
+  You can connect with Nina on <a href="https://www.linkedin.com/in/nina-huang"> LinkedIn here</a>.
   You can find Nina's <a href="https://scholar.google.com/citations?user=pTNPXbMAAAAJ&hl=en" rel="nofollow"> Google Scholar page here</a>. You can also read her latest research papers on her <a href="https://nhuang-research.github.io" rel="nofollow">webpage profile</a>. If you would like to collaborate with Dr. Huang on research or invite her to speak at an event, please <a href="mailto: nhuang@miami.edu" rel="nofollow">contact her here</a>.
 </p>
