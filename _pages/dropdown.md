@@ -1,13 +1,13 @@
 ---
 layout: page
-title: research
+title: Research
 nav: true
 nav_order: 1
 dropdown: true
 children:
-  - title: publications
+  - title: Publications
     permalink: /publications/
   - title: divider
-  - title: working papers
+  - title: Working Papers
     permalink: /working/
 ---

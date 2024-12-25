@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Talks/
+permalink: /talks/
 title: Talks
 description: List of previous and upcoming research talks.
 nav: true
