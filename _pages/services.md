@@ -7,58 +7,36 @@ nav: true
 nav_order: 3
 ---
 
-#### Editorships
+#### Journal Editorial Services
+- Senior Editor, [Production and Operations Management,](https://www.poms.org/pomjournal/departments/dpit) *February 2024-*
+- Associate Editor, [Information Systems Research,](https://pubsonline.informs.org/page/isre/editorial-board) *January 2025-*
+- Associate Editor, [MIS Quarterly,](https://misq.org/board/) *January 2021-December 2024*
+- Co-Editor, [Production and Operations Management (POMS) Special Issue on Responsible Data Science,](http://poms.org/cfp_POM_SI_ResDataScience.pdf) *August 2022*
+- Guest Associate Editor, [MIS Quarterly Special Issue on Digital Resilience,](https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/DigitalResilience.pdf) *November 2020-March 2022.*
+- Guest Senior Editor, [Production and Operations Management (POMS) Special Issue on Social Technologies in Operations,](https://www.poms.org/POM%20Social%20Technology%20special%20issue.pdf) *January 2022*
+- Co-Editor, [Internet Research Special Issue on the Bright Side and the Dark Side of Digital Health,](https://www.emeraldgrouppublishing.com/journal/intr/bright-side-and-dark-side-digital-health) *February 2020–December 2021.*
 
-###### `Editorial Appointments`
-
-- Senior Editor, `Production and Operations Management` (2024–)
-- Associate Editor, `Information Systems Research` (2025–)
-- Associate Editor, `MIS Quarterly` (2020–2024)
-
-###### `Special Issue Editors`
-
-- Co-Editor, *Production and Operations Management*, Special Issue on "Responsible Data Science"
-- Senior Editor, *Production and Operations Management*, Special Issue on "Social Technologies in Operations"
-
-
-#### Selected Professional Services
-
-- Track Co-Chair (with Jonny Holmström and Zhijie Lin) for the “Sharing Economy, Platforms, and Crowds” Track, International Conference on Information Systems (2025)
-- Track Co-Chair (with Thomas Kude and Mengxiang Li) for the "Sharing Economy, Platforms, and Crowds" Track, International Conference on Information Systems (2024)
-- Track Co-Chair for the "Information Systems" Track, Decision Sciences Institute Annual Conference (2021)
-- Track Co-Chair (with Ann Majchrzak and Saonee Sarker) for the "AI Systems" Track, International Conference on Information Systems (2021)
-- Doctoral Consortium Mentor, America's Conference on Information Systems (2020)
-- Cluster Co-chair, INFORMS Information Systems Society Cluster (2019)
-- Conference Co-chair, INFORMS Conference on Information Systems and Technology (2018)
- 
-<!-- <hr style="clear:both;visibility: hidden;" />   -->
-
-#### PhD/Postdoc Students Supervision and Placement
-
-###### `Dissertation Chair / Co-Chair`
-- [Amin Sabzehzar](https://freeman.tulane.edu/faculty-research/management-science/amin-sabzehzar), Assistant Professor (2022), A. B. Freeman School of Business, Tulane University
-- [Qinglai He](https://business.wisc.edu/directory/profile/qinglai-he/), Assistant Professor (2021), Wisconsin School of Business, University of Wisconsin-Madison
-	* ACM SIGMIS Doctoral Dissertation Award Runnerup
-- [Chen Liang](https://www.business.uconn.edu/person/chen-liang/), Assistant Professor (2019), School of Business, University of Connecticut
-	* ISS Gordon B. Davis Young Scholar Award
-	* AIS Early Career Award
-- [Ying Liu](https://www.isenberg.umass.edu/people/ying-liu), Assistant Professor (2018), Isenberg School of Management, University of Massachusetts Amherst
-
-###### `Postdoc Advisor / Co-Advisor`
-- [Jason Wu](https://www.unsw.edu.au/staff/jason-wu1), Assistant Professor (2023), UNSW Business School, University of New South Wales
-- [Yumei (Joy) He](https://freeman.tulane.edu/faculty-research/management-science/yumei-he), Assistant Professor (2022), A. B. Freeman School of Business, Tulane University
-
-###### `Dissertation Member`
-- [Aida Sanatizadeh](https://www.cob.niu.edu/about/directory/sanatizadeh.shtml), Assistant Professor (2024), College of Business, Northern Illinois University
-- [Jingbo Hou](https://www.scu.edu/business/isa/faculty/hou/), Assistant Professor (2023), Leavey School of Business, Santa Clara University
-- [Tengteng Ma](https://www.usf.edu/business/about/bios/ma-tengteng.aspx), Assistant Professor (2023), Muma College of Business, University of South Florida
-- [Keran Zhao](https://directory.smeal.psu.edu/kkz5215), Assistant Professor (2021), Smeal College of Business, Penn State University
-- Alvin Zheng, Assistant Professor (2021), Renmin University of China
-- [Cheng Chen](https://uwm.edu/business/people/chen-cheng/), Assistant Professor (2020), Lubar School of Business, University of Wisconsin-Milwaukee
-
-###### `PhD Students Mentoring`
-- Dezhen Guo (2024-), PhD student at University of Miami
-- Alan Huang (2023-), PhD student at University of Miami
-- Freya Liu (2022-), PhD student at HK PolyU
-- Xingchen Xu (2019-), PhD student at University of Washington
+#### Conference Services
+- Track Co-chair in [User Behavior, Engagement, and Consequences Track,](https://icis2024.aisconferences.org/submissions/track-descriptions/#toggle-id-21) *International Conference on Information Systems (ICIS), December 15-18, 2024, Bangkok, Thailand.*
+- Track Co-chair in [User Behavior, Engagement, and Consequences Track,](https://icis2023.aisconferences.org/track-descriptions/#toggle-id-21) *International Conference on Information Systems (ICIS), December 10-13, 2023, Hyderabad, India.*
+- Cluster Co-chair in [Information Systems (IS) Cluster,](https://meetings.informs.org/wordpress/indianapolis2022/committees/) *INFORMS Annual Meeting, October 16-19, 2022, Indianapolis, IN.*
+- Track Co-chair in [User Behavior, Engagement, and Consequences Track,](https://icis2021.aisconferences.org/track-descriptions/#toggle-id-21) *International Conference on Information Systems (ICIS), December 12-15, 2021, Austin, TX.*
+- Session Chair in [Information Technology/Information Systems Track,](https://decisionsciences.org/annual-conferences/national-dsi/tracks-and-track-chairs/information-technology-management/) *Annual Conference of the Decision Sciences Institute (DSI Conference), 2021, Virtual Conference.*
+- Cluster Co-chair in [IS Cluster,](http://meetings2.informs.org/wordpress/anaheim2021/cluster-listings/)*INFORMS Annual Meeting, October 24-27, 2021, Anaheim, CA.*
+- Co-chair in [Crowd-based Platform Mini-track,](https://hicss.hawaii.edu/tracks-54/internet-and-the-digital-economy/#crowd-based-platforms-minitrack) *the 54th Hawaii International Conference on System Sciences (HICSS), January 5–8, 2021, Kauai, HI.*
+- Session Chair in [User Behavior in Online Platforms,](https://icis2020.aisconferences.org/schedule-program/) *International Conference on Information Systems (ICIS), December 13–16, 2020, Virtual Conference.*
+- Co-chair in [Information Systems (IS) Cluster,](http://meetings2.informs.org/wordpress/anaheim2021/cluster-listings/) *INFORMS Annual Meeting, October 24-27, 2021, Anaheim, CA*
+- Associate Editor in [User Behaviors, User Engagement, and Consequences,](https://icis2020.aisconferences.org/track-descriptions/#toggle-id-9) *International Conference on Information Systems (ICIS), December 13–16, 2020, Virtual Conference.*
+- Session Chair in [Digital Platform Design,](https://www.abstractsonline.com/pp8/#!/9022/session/2265) *INFORMS Annual Meeting, November 8–11, 2020, Virtual Conference.*
+- Co-chair in the Crowd-based Platform Mini-track, *the 53th Hawaii International Conference on System Sciences (HICSS), January 7–10, 2020, Maui, HI.*
+- Associate Editor in [Economics and IS Track,](https://icis2019.aisconferences.org/submissions/track-descriptions/#toggle-id-23) *International Conference on Information Systems (ICIS), December 15–18, 2019, Munich, Germany.*
+- Session Chair, *INFORMS Annual Meeting, October 20–23, 2019, Seattle, WA.*
+- Program Committee Member, *INFORMS Conference on Information Systems and Technology (CIST), October 19–20, 2019, Seattle, WA.*
+- Associate Editor in Business Analytics and Big Data Track, *European Conference on Information Systems (ECIS), June 8–14, 2019, Stockholm and Uppsala, Sweden.*
+- Workshop Discussant, *the 5th Workshop on Experimental and Behavioral Economics in Information Systems (WEBEIS), May 11, 2019, Minneapolis, MN.*
+- Co-chair in the Crowd-based Platform Mini-track, *the 52th Hawaii International Conference on System Sciences (HICSS), January 8–11, 2019, Maui, HI.*
+- Session Chair, *INFORMS Annual Meeting, November 4–7, 2018, Phoenix, AZ.*
+- Program Committee Member, *INFORMS Conference on Information Systems and Technology (CIST), November 2–3, 2018, Phoenix, AZ.*
+- Session Chair, *the 29th Production and Operations Management (POMS) Annual Con- ference, May 4–7, 2018, Houston, TX.*
+- Co-chair in the Crowd-based Platform Mini-track, *the 51th Hawaii International Conference on System Sciences (HICSS), January 3–6, 2018, Big Island, HI.*
 
