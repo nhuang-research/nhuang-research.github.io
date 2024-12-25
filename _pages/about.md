@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: <a href='https://people.miami.edu/profile/7abce556c6974d74e71c89fb865e4553'>University of Miami Herbert Business School</a>
 
@@ -43,6 +43,9 @@ Dr. Huang's research has been published in premier journals across multiple disc
   </li>
 </ul>
 
-Nina has received many awards and recognitions, including a [Senior Member of Institute for Operations Research and the Management Sciences (INFORMS)] (https://pubsonline.informs.org/do/10.1287/orms.2024.01.25n/full/), a [Distinguished Member of the AIS](https://aisnet.org/page/DistinguishedMemberList), the [INFORMS Sandra A. Slaughter Early Career Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Information-Systems-Society/ISS-Sandra-A.-Slaughter-Early-Career-Award), the [Association for Information Systems (AIS) Early Career Award](https://ishistory.aisnet.org/awards/earlycareeraward/), the [Outstanding Reviewer of the Year at *MIS Quarterly*](https://misq.umn.edu/awards-reviewer), as well as the [Best Reviewer of the Year at *Information Systems Research*](https://pubsonline.informs.org/page/isre/awards). 
+Nina has received many awards and recognitions, including a [Senior Member of Institute for Operations Research and the Management Sciences (INFORMS)] (https://pubsonline.informs.org/do/10.1287/orms.2024.01.25n), a [Distinguished Member of the AIS](https://aisnet.org/page/DistinguishedMemberList), the [INFORMS Sandra A. Slaughter Early Career Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Information-Systems-Society/ISS-Sandra-A.-Slaughter-Early-Career-Award), the [Association for Information Systems (AIS) Early Career Award](https://ishistory.aisnet.org/awards/earlycareeraward/), the [Outstanding Reviewer of the Year at *MIS Quarterly*](https://misq.umn.edu/awards-reviewer), as well as the [Best Reviewer of the Year at *Information Systems Research*](https://pubsonline.informs.org/page/isre/awards). 
 
-<p>You can find Nina's <a href="https://scholar.google.com/citations?user=pTNPXbMAAAAJ&hl=en" rel="nofollow"> Google Scholar page here</a>. You can also read her latest research papers on her <a href="https://nhuang-research.github.io/" rel="nofollow">webpage profile</a>. If you would like to collaborate with Dr. Huang on research or invite her to speak at an event, please <a href="mailto: nhuang@miami.edu" rel="nofollow">contact her here</a>.</p>
+<p>
+  You can connect with Nina <a href="https://www.linkedin.com/in/nina-huang/"> on LinkedIn here</a>.
+  You can find Nina's <a href="https://scholar.google.com/citations?user=pTNPXbMAAAAJ&hl=en" rel="nofollow"> Google Scholar page here</a>. You can also read her latest research papers on her <a href="https://nhuang-research.github.io/" rel="nofollow">webpage profile</a>. If you would like to collaborate with Dr. Huang on research or invite her to speak at an event, please <a href="mailto: nhuang@miami.edu" rel="nofollow">contact her here</a>.
+</p>

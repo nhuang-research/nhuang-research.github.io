@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /services/
-title: services
-description: List of academic services and student advising.
+permalink: /Services/
+title: Services
+description: 
 nav: true
 nav_order: 3
 ---
