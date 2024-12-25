@@ -42,7 +42,9 @@ Dr. Huang's research has been published in premier journals (listed in <a href="
   </li>
 </ul>
 
-Nina has received many awards and recognitions, including a [Senior Member of Institute for Operations Research and the Management Sciences (INFORMS)] (https://pubsonline.informs.org/do/10.1287/orms.2024.01.25n), a [Distinguished Member of the AIS](https://aisnet.org/page/DistinguishedMemberList), the [INFORMS Sandra A. Slaughter Early Career Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Information-Systems-Society/ISS-Sandra-A.-Slaughter-Early-Career-Award), the [Association for Information Systems (AIS) Early Career Award](https://ishistory.aisnet.org/awards/earlycareeraward/), the [Outstanding Reviewer of the Year at *MIS Quarterly*](https://misq.umn.edu/awards-reviewer), as well as the [Best Reviewer of the Year at *Information Systems Research*](https://pubsonline.informs.org/page/isre/awards). 
+<p>
+Nina has received many awards and recognitions, including <a href="https://pubsonline.informs.org/do/10.1287/orms.2024.01.25n"> a Senior Member of Institute for Operations Research and the Management Sciences (INFORMS)</a>, <a href="https://aisnet.org/page/DistinguishedMemberList"> a Distinguished Member of the AIS</a>, <a href="https://www.informs.org/Recognizing-Excellence/Community-Prizes/Information-Systems-Society/ISS-Sandra-A.-Slaughter-Early-Career-Award"> the INFORMS Sandra A. Slaughter Early Career Award</a>, <a href="https://ishistory.aisnet.org/awards/earlycareeraward/"> the Association for Information Systems (AIS) Early Career Award</a>, <a href="https://misq.umn.edu/awards-reviewer"> an Outstanding Reviewer of the Year at <em>MIS Quarterly</em></a>, and <a href="https://pubsonline.informs.org/page/isre/awards"> the Best Reviewer of the Year at <em>Information Systems Research</em></a>.
+</p>
 
 <p>
   You can connect with Nina <a href="https://www.linkedin.com/in/nina-huang"> on LinkedIn here</a>.
