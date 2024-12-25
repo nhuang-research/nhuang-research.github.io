@@ -9,7 +9,7 @@ nav_order: 2
 
 1. McCombs School of Business, University of Texas at Austin, November 2024
 
-1. Cambridge Handbook Symposium, Marshall School of Business, University of Southern California, November 2024
+1. Marshall School of Business, University of Southern California, November 2024
 
 1. School of Management, Bocconi University, Italy, May 2023
 
