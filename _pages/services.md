@@ -11,21 +11,15 @@ nav_order: 3
 
 ###### `Editorial Appointments`
 
-- Senior Editor, `Production and Operations Management` (2019–)
-- Associate Editor, `Information Systems Research` (2018–)
-- Associate Editor, *Journal of the Association for Information Systems* (2019–)
-- Editorial Board, *Journal of the Association for Information Systems* (2017–2019)
+- Senior Editor, `Production and Operations Management` (2024–)
+- Associate Editor, `Information Systems Research` (2025–)
+- Associate Editor, `MIS Quarterly` (2020–2024)
 
 ###### `Special Issue Editors`
 
-- Co-Editor, *Production and Operations Management*, Special Issue on "Social Technologies in Operations"
-- Senior Editor, *Production and Operations Management*, Special Issue on "Responsible Data Science"
-- Senior Editor, *Production and Operations Management*, Special Issue on "Disruptive Technologies and Operations Management"
-- Senior Editor, *Production and Operations Management*, Special Issue on "Role of National Culture in Operations Management"
-- Senior Editor, *Production and Operations Management*, Special Issue on "New Business Models and Operations Innovations"
-- Associate Editor, *Information Systems Research*, Special Issue on “Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations and Society”
-- Associate Editor, *Information Systems Research*, Special Issue on “Market Design and Analytics”
-- Editorial Board, *Journal of the Association for Information Systems*, Special Issue on “Addressing Societal Challenges through Analytics”
+- Co-Editor, *Production and Operations Management*, Special Issue on "Responsible Data Science"
+- Senior Editor, *Production and Operations Management*, Special Issue on "Social Technologies in Operations"
+
 
 #### Selected Professional Services
 
