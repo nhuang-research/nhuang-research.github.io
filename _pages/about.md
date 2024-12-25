@@ -15,36 +15,34 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<p> <a href="https://people.miami.edu/profile/nxh558@miami.edu/"> Nina Huang </a> is an Associate Professor of Business Technology/ Information Systems at the Miami Herbert Business School, University of Miami, Florida. Nina's expertise centers on understanding how digital technology can enhance user experiences and improve business outcomes. Her research program covers a range of digital contexts, including live streaming, online dating, online learning, online healthcare, mobile applications, and digital commerce.</p>
+<p> <a href="https://people.miami.edu/profile/nxh558@miami.edu/"> Nina Huang </a> is an Associate Professor of Business Technology at the Miami Herbert Business School, University of Miami, Florida. Nina's expertise centers on understanding how digital technology can enhance user experiences and improve business outcomes. Her research program covers a range of digital contexts, including live streaming, online dating, online learning, online healthcare, mobile applications, and digital commerce.</p> Nina currently serves as a Senior Editor at <em>Production and Operations Management</em>, an Associate Editor at <em>Information Systems Research</em>, and the Vice President of INFORMS Information Systems Society. 
 
 <h4>Research Contribution</h4>
-Dr. Huang's research work has been published in premier journals across multiple disciplines:
+Dr. Huang's research has been published in premier journals across multiple disciplines:
 <ul>
     <li>Interdiscplinary
     <ul style="list-style-type: none;">
-      <li>Management Science (MS)</li>
-      <li>Production and Operations Management (POM)</li>
+          <li><em>Management Science (MS)</em></li>
+      <li><em>Production and Operations Management (POM)</em></li>
     </ul>
   </li>
   
   <li>Information Systems
     <ul style="list-style-type: none;">
-      <li>Information Systems Research (ISR)</li>
-      <li>MIS Quarterly (MISQ)</li>
-            <li>Journal of Management Information Systems (JMIS)</li>
-            <li>Journal of the Association for Information Systems (JAIS)</li>
+      <li><em>Information Systems Research (ISR)</em></li>
+      <li><em>MIS Quarterly (MISQ)</em></li>
+            <li><em>Journal of Management Information Systems (JMIS)</em></li>
+            <li><em>Journal of the Association for Information Systems (JAIS)</em></li>
     </ul>
   </li>
  
   <li>Marketing
     <ul style="list-style-type: none;">
-      <li>Journal of Consumer Psychology (JCP)</li>
+      <li><em>Journal of Consumer Psychology (JCP)</em></li>
     </ul>
   </li>
 </ul>
 
-*Management Science (MS), MIS Quarterly (MISQ), Information Systems Research (ISR), Production and Operations Management (POM), Journal of Management Information Systems (JMIS), Journal of the Association for Information Systems (JAIS),* and *Journal of Consumer Psychology (JCP).* Nina currently serves as a Senior Editor at *Production and Operations Management*, an Associate Editor at *MIS Quarterly*, and the Vice President of INFORMS Information Systems Society. 
-
 Nina has received many awards and recognitions, including a [Senior Member of Institute for Operations Research and the Management Sciences (INFORMS)] (https://pubsonline.informs.org/do/10.1287/orms.2024.01.25n/full/), a [Distinguished Member of the AIS](https://aisnet.org/page/DistinguishedMemberList), the [INFORMS Sandra A. Slaughter Early Career Award](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Information-Systems-Society/ISS-Sandra-A.-Slaughter-Early-Career-Award), the [Association for Information Systems (AIS) Early Career Award](https://ishistory.aisnet.org/awards/earlycareeraward/), the [Outstanding Reviewer of the Year at *MIS Quarterly*](https://misq.umn.edu/awards-reviewer), as well as the [Best Reviewer of the Year at *Information Systems Research*](https://pubsonline.informs.org/page/isre/awards). 
 
-<p>Please find Nina's <a href="https://scholar.google.com/citations?user=pTNPXbMAAAAJ&hl=en" rel="nofollow"> Google Scholar page here</a>. You can also read her latest research papers on her <a href="https://nhuang-research.github.io/" rel="nofollow">webpage profile</a>. If you would like to collaborate with Dr. Huang on research or invite her to speak at an event, please <a href="mailto: nhuang@miami.edu" rel="nofollow">contact her here</a>.</p>
+<p>You can find Nina's <a href="https://scholar.google.com/citations?user=pTNPXbMAAAAJ&hl=en" rel="nofollow"> Google Scholar page here</a>. You can also read her latest research papers on her <a href="https://nhuang-research.github.io/" rel="nofollow">webpage profile</a>. If you would like to collaborate with Dr. Huang on research or invite her to speak at an event, please <a href="mailto: nhuang@miami.edu" rel="nofollow">contact her here</a>.</p>
