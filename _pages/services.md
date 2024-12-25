@@ -10,6 +10,8 @@ nav_order: 3
 #### Journal Editorial Services
 - Senior Editor, [Production and Operations Management,](https://www.poms.org/pomjournal/departments/dpit) *February 2024-*
 - Associate Editor, [Information Systems Research,](https://pubsonline.informs.org/page/isre/editorial-board) *January 2025-*
+- Guest Associate Editor, [MIS Quarterly Special Issue on Artificial Intelligence-Information Assurance
+Nexus,](https://misq.umn.edu/call-for-papers-ai-ia) *November 2024-*
 - Associate Editor, [MIS Quarterly,](https://misq.org/board/) *January 2021-December 2024*
 - Co-Editor, [Production and Operations Management (POMS) Special Issue on Responsible Data Science,](http://poms.org/cfp_POM_SI_ResDataScience.pdf) *August 2022*
 - Guest Associate Editor, [MIS Quarterly Special Issue on Digital Resilience,](https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/DigitalResilience.pdf) *November 2020-March 2022.*
