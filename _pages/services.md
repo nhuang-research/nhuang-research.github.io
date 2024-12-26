@@ -28,31 +28,31 @@ Service for International Conference on Information Systems (ICIS)
 </ul>
 
 Service for INFORMS & Conference on Information Systems and Technology (CIST)
-<ul>
-  <li>Cluster Co-chair in “IS Cluster,” INFORMS Annual Meeting, 2022, 2021</li>
-  <li>Program Committee Member, INFORMS CIST, 2022, 2019, 2018</li>
-  <li>Session Chair in “Digital Platform Design,” INFORMS Annual Meeting, 2020</li>
-  <li>Session Chair, INFORMS Annual Meeting, 2019, 2018</li>
+<ul style="list-style-type: none; padding: 0;">
+  <li>- Cluster Co-chair in “IS Cluster,” INFORMS Annual Meeting, 2022, 2021</li>
+  <li>- Program Committee Member, INFORMS CIST, 2022, 2019, 2018</li>
+  <li>- Session Chair in “Digital Platform Design,” INFORMS Annual Meeting, 2020</li>
+  <li>- Session Chair, INFORMS Annual Meeting, 2019, 2018</li>
 </ul>
 
 Service for Production and Operations Management Society (POMS) Annual Conference
-<ul>
-  <li>Session Chair in “Information Systems and Operations Management” Track, POMS Annual Conference, 2024, 2018</li>
+<ul style="list-style-type: none; padding: 0;">
+  <li>- Session Chair in “Information Systems and Operations Management” Track, POMS Annual Conference, 2024, 2018</li>
 </ul>
 
 Service for Hawaii International Conference on System Sciences (HICSS)
 
-<ul>
-  <li>Co-chair in “Crowd-based Platform” Mini-track, HICSS, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018</li>
+<ul style="list-style-type: none; padding: 0;">
+  <li>- Co-chair in “Crowd-based Platform” Mini-track, HICSS, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018</li>
 </ul>
 
 Service for other conferences/ workshops
-<ul>
-  <li>Conference Co-chair, China Summer Workshop on Information Management (CSWIM), 2023</li>
-  <li>Mentor for “IS Student Presentations Over the Cloud (ISPOC) Series,” New York University, 2023</li>
-  <li>Mentor and Panelist for the 3rd AIS SIG DITE Paper Development Workshop on Digital Innovation, Transformation, and Entrepreneurship, 2023</li>
-  <li>Mentor for “AMCIS Doctoral Consortium for Early Students,” Americas Conference on Information Systems (AMCIS), 2021</li>
-  <li>Session Chair in “Information Technology/Information Systems” Track, Annual Conference of the Decision Sciences Institute (DSI Conference), 2021</li>
-  <li>Associate Editor in “Business Analytics and Big Data” Track, European Conference on Information Systems (ECIS), 2019</li>
-  <li>Discussant, Workshop on Experimental and Behavioral Economics in Information Systems (WEBEIS), 2019</li>
+<ul style="list-style-type: none; padding: 0;">
+  <li>- Conference Co-chair, China Summer Workshop on Information Management (CSWIM), 2023</li>
+  <li>- Mentor for “IS Student Presentations Over the Cloud (ISPOC) Series,” New York University, 2023</li>
+  <li>- Mentor and Panelist for the 3rd AIS SIG DITE Paper Development Workshop on Digital Innovation, Transformation, and Entrepreneurship, 2023</li>
+  <li>- Mentor for “AMCIS Doctoral Consortium for Early Students,” Americas Conference on Information Systems (AMCIS), 2021</li>
+  <li>- Session Chair in “Information Technology/Information Systems” Track, Annual Conference of the Decision Sciences Institute (DSI Conference), 2021</li>
+  <li>- Associate Editor in “Business Analytics and Big Data” Track, European Conference on Information Systems (ECIS), 2019</li>
+  <li>- Discussant, Workshop on Experimental and Behavioral Economics in Information Systems (WEBEIS), 2019</li>
 </ul>
