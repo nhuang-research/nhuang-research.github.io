@@ -41,7 +41,7 @@ Service for <a href="https://www.poms.org/conferences"> Production and Operation
   	<li>- Session Chair in “Information Systems and Operations Management” Track, POMS Annual Conference, 2024, 2018</li>
 </ul>
 
-Service for <a href="https://hicss.hawaii.edu/"> Hawaii International Conference on System Sciences (HICSS) </a> 
+Service for <a href="https://hicss.hawaii.edu/"> Hawaii International Conference on System Sciences (HICSS):</a> 
 <ul style="list-style-type: none; padding-left: 25px;">
   	<li>- Co-chair in “Crowd-based Platform” Mini-track, HICSS, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018</li>
 </ul>
