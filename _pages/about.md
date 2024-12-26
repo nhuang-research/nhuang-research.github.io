@@ -22,27 +22,27 @@ Dr. Huang's research has been published in premier journals (listed in <a href="
 <ul>
   <li>Interdiscplinary
     <ul style="list-style-type: none;">
-          <li><em>Management Science (MS)</em></li>
+          <li><a href="https://pubsonline.informs.org/journal/mnsc"> <em>Management Science (MS)</em></a></li>
     </ul>
   </li>
   
   <li>Information Systems
     <ul style="list-style-type: none;">
-      <li><em>Information Systems Research (ISR)</em></li>
-      <li><em>MIS Quarterly (MISQ)</em></li>
-      <li><em>Journal of Management Information Systems (JMIS)</em></li>            
+      <li><a href="https://pubsonline.informs.org/journal/isre"> <em>Information Systems Research (ISR)</em></a></li>
+      <li><a href="https://misq.umn.edu"> <em>MIS Quarterly (MISQ)</em></a></li>
+      <li><a href="https://www.jmis-web.org"> <em>Journal of Management Information Systems (JMIS)</em></a></li>            
     </ul>
   </li>
  
   <li>Operations Management
     <ul style="list-style-type: none;">
-      <li><em>Production and Operations Management (POM)</em></li>
+      <li><a href="https://www.poms.org/journal"> <em>Production and Operations Management (POM)</em></a></li>
     </ul>
   </li>
 
   <li>Marketing
     <ul style="list-style-type: none;">
-      <li><em>Journal of Consumer Psychology (JCP)</em></li>
+      <li><a href="https://myscp.onlinelibrary.wiley.com/journal/15327663"> <em>Journal of Consumer Psychology (JCP)</em></a></li>
     </ul>
   </li>
 </ul>
