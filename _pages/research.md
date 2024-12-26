@@ -31,7 +31,7 @@ nav_order: 1
 - Social Media Analytics
 - Online Commerce and Content Platforms 
  
-<div class="publications"> </div>
+
 
 ## Selected Journal Publications
 
