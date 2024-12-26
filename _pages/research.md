@@ -24,7 +24,7 @@ nav_order: 1
 #### Selected Journal Publications
 
 <ol style="list-style-type: decimal;">
-  <li style="margin-bottom: 10px;">Li B, <b>Huang N</b>, Shi W (2024) <a href="  ">Forced to Change? Media Exposure of Labor Issues and Firm Artificial Intelligence (AI) Investment</a>, <em>Information Systems Research</em>, forthcoming.</li>	
+  <li style="margin-bottom: 10px;">Li B, <b>Huang N</b>, Shi W (2025) <a href="  ">Forced to Change? Media Exposure of Labor Issues and Firm Artificial Intelligence (AI) Investment</a>, <em>Information Systems Research</em>, forthcoming.</li>	
   <li style="margin-bottom: 10px;">He Y, Xu X, <b>Huang N</b>, Hong Y, Liu D (2024) <a href="https://pubsonline.informs.org/doi/10.1287/isre.2021.0379">Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from the Online Dating Context</a>, <em>Information Systems Research</em>, forthcoming.</li>
   <li style="margin-bottom: 10px;"><b>Huang N</b>, Wang L, Hong Y, Lin L, Guo X, Chen G (2023) <a href="https://pubsonline.informs.org/doi/full/10.1287/isre.2023.1234">When the Clock Strikes: A Multimethod Investigation of On-the-Hour Effects in Online Learning</a>, <em>Information Systems Research</em>, 35(2):766-782.</li>
   <li style="margin-bottom: 10px;">Wang L, <b>Huang N</b>, Hong Y, Liu L, Guo X, Chen G (2023) <a href="https://onlinelibrary.wiley.com/doi/10.1111/poms.13953">Voice-based AI in Call Center Customer Service: A Natural Field Experiment</a>, <em>Production and Operations Management</em>, 32(4):1002–1018.</li>
