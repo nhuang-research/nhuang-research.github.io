@@ -20,11 +20,11 @@ Nexus,](https://misq.umn.edu/call-for-papers-ai-ia) *November 2024-*
 
 #### Conference Services
 Service for International Conference on Information Systems (ICIS)
-<ul>
-  <li>Track Co-chair in “User Behavior, Engagement, and Consequences,” ICIS, 2024, 2023, 2021</li>
-  <li>Session Chair in “User Behavior in Online Platforms,” ICIS, 2020</li>
-  <li>Associate Editor in “User Behaviors, User Engagement, and Consequences” Track, ICIS, 2020</li>
-  <li>Associate Editor in “Economics and IS” Track, ICIS, 2019</li>
+<ul style="list-style-type: none; padding: 0;">
+  <li>- Track Co-chair in “User Behavior, Engagement, and Consequences,” ICIS, 2024, 2023, 2021</li>
+  <li>- Session Chair in “User Behavior in Online Platforms,” ICIS, 2020</li>
+  <li>- Associate Editor in “User Behaviors, User Engagement, and Consequences” Track, ICIS, 2020</li>
+  <li>- Associate Editor in “Economics and IS” Track, ICIS, 2019</li>
 </ul>
 
 Service for INFORMS & Conference on Information Systems and Technology (CIST)
@@ -40,7 +40,7 @@ Service for Production and Operations Management Society (POMS) Annual Conferenc
   <li>Session Chair in “Information Systems and Operations Management” Track, POMS Annual Conference, 2024, 2018</li>
 </ul>
 
-- Service for Hawaii International Conference on System Sciences (HICSS)
+Service for Hawaii International Conference on System Sciences (HICSS)
 
 <ul>
   <li>Co-chair in “Crowd-based Platform” Mini-track, HICSS, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018</li>
