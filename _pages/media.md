@@ -25,6 +25,9 @@ nav_order: 4
   <li style="margin-bottom: 10px;">
     Miami Herbert Stories, <a href="https://news.miami.edu/miamiherbert/stories/2023/08/miami-herbert-professors-shine-in-global-information-systems-rankings.html">Miami Herbert Professors Shine in Global Information Systems Rankings,</a> University of Miami Herbert Business School, 2023
   </li>
+    <li style="margin-bottom: 10px;">
+    2022 Best Undergraduate Professors, <a href="https://poetsandquantsforundergrads.com/news/2022-best-undergraduate-professors-nina-ni-huang-university-of-miami-herbert-business-school/">Nina (Ni) Huang, University of Miami Herbert Business School,</a> Poets&Quants for Undergrads, 2022
+  </li>
   <li style="margin-bottom: 10px;">
     This IS Research Podcast, <a href="https://open.spotify.com/episode/2ztG1Ird6LCmTNFf4YdRfp">Causality Meets Diversity,</a> Spotify, 2022
   </li>
