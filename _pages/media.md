@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 #### Selected Media Mentions and Reports
-
+ 
 <ul style="list-style-type: disc;">
   <li style="margin-bottom: 10px;">
     EurekAlert!, <a href="https://www.eurekalert.org/news-releases/1040017">Study: Vanishing Photos Make Dating App Matches Multiply,</a> American Association for the Advancement of Science (AAAS), 2024
@@ -56,13 +56,7 @@ nav_order: 4
     Dinero (Money Magazine in Spanish), <a href="http://www.dinero.com/opinion/columnistas/articulo/como-saber-si-es-falso-u-original-pregunte-a-los-reviewers-por-maria-gonzalez/231308">¿Cómo saber si es falso u original? Pregúntele a los reviewers (How to Know If Fake or Original? Ask the Reviewers),</a> Publicaciones Semana S.A., 2016
   </li>
   <li style="margin-bottom: 10px;">
-    ReviewTrackers, <a href="http://www.reviewtrackers.com/research-uncovers-tactics-customer-feedback-management/">Research Uncovers Tactics in Customer Feedback Management,</a> Review Trackers Inc, 2016
-  </li>
-  <li style="margin-bottom: 10px;">
     ScienceDaily, <a href="https://www.sciencedaily.com/releases/2016/05/160511080731.htm">How to Boost Online Ratings,</a> Society for Consumer Psychology, 2016
-  </li>
-  <li style="margin-bottom: 10px;">
-    EurekAlert!, <a href="http://www.eurekalert.org/pub_releases/2016-05/sfcp-htb051016.php">How to Boost Online Ratings,</a> American Association for the Advancement of Science (AAAS), 2016
   </li>
   <li style="margin-bottom: 10px;">
     ZeeNews, <a href="http://zeenews.india.com/news/net-news/long-wait-for-feedback-can-boost-service-ratings-online_1884161.html">Long Wait for Feedback Can Boost Service Ratings Online,</a> Zee Media Bureau, 2016
@@ -73,4 +67,4 @@ nav_order: 4
   <li style="margin-bottom: 10px;">
     Spektrum der Wissenschaft (Scientific American In German), <a href="http://www.spektrum.de/news/weiter-weg-und-laenger-her-gefaellt-uns-besser/1409908">Weiter weg und langer her gefallt uns besser (Further Away and Longer Ago Like It Better),</a> von Lars Fischer, 2016
   </li>
-</ul>
+</ul> 
