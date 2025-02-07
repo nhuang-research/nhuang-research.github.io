@@ -24,7 +24,7 @@ nav_order: 1
 #### Selected Journal Publications
 
 <ol style="list-style-type: decimal;">
-  <li style="margin-bottom: 10px;"><b>Huang N</b>, Burtch G, Chen P, Huang A (2025) <a href="#">Evaluating the Efficacy of Platform-Imposed Application Costs for Managing Congestion in Online Matching Market</a>, <em>Management Science</em>, forthcoming.</li>  
+  <li style="margin-bottom: 10px;"><b>Huang N</b>, Burtch G, Chen P, Huang A (2025) <a href="#">Evaluating the Efficacy of Application Costs for Managing Congestion in Online Matching Market</a>, <em>Management Science</em>, forthcoming.</li>  
   <li style="margin-bottom: 10px;">Li B, <b>Huang N</b>, Shi W (2025) <a href="#">Forced to Change? Media Exposure of Labor Issues and Firm Artificial Intelligence (AI) Investment</a>, <em>Information Systems Research</em>, forthcoming.</li>	
   <li style="margin-bottom: 10px;">He Y, Xu X, <b>Huang N</b>, Hong Y, Liu D (2024) <a href="https://pubsonline.informs.org/doi/10.1287/isre.2021.0379">Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from the Online Dating Context</a>, <em>Information Systems Research</em>, forthcoming.</li>
   <li style="margin-bottom: 10px;">Qiao W, <b>Huang N</b>, Yan Z (2024) <a href="https://www.tandfonline.com/doi/full/10.1080/07421222.2024.2415767">How to Translate Firm-Generated Content to Sales? Evidence from Online Healthcare Platforms</a>, <em>Journal of Management Information Systems</em>, 41(4):1173–1197.</li>
