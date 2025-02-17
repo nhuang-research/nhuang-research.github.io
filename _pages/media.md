@@ -23,6 +23,9 @@ nav_order: 4
     Swift Telecast, <a href="https://swifttelecast.com/vanishing-photos-make-dating-app-matches-multiply/">Study: Vanishing Photos Make Dating App Matches Multiply,</a> Swift Telecast, 2024
   </li>
   <li style="margin-bottom: 10px;">
+    Business Insider, <a href="https://www.businessinsider.com/recession-outlook-laid-off-workers-turn-to-gig-work-2023-1">Get Ready for a Gig-Worker Boom That Could Make It Harder for Contractors to Earn a Living,</a>  Insider Inc., 2023
+  </li>
+  <li style="margin-bottom: 10px;">
     Miami Herbert Stories, <a href="https://news.miami.edu/miamiherbert/stories/2023/08/miami-herbert-professors-shine-in-global-information-systems-rankings.html">Miami Herbert Professors Shine in Global Information Systems Rankings,</a> University of Miami Herbert Business School, 2023
   </li>
     <li style="margin-bottom: 10px;">
