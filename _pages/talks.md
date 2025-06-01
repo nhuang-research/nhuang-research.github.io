@@ -9,7 +9,9 @@ nav_order: 2
 
 
 <ul style="list-style-type: disc;">
-    <li style="margin-bottom: 10px;"><a href="https://www.smeal.psu.edu/">Smeal College of Business, Pennsylvania State University,</a> April 2025</li>
+  <li style="margin-bottom: 10px;"><a href="https://english.ckgsb.edu.cn/">Cheung Kong Graduate School of Business,</a> June 2025</li>
+  <li style="margin-bottom: 10px;"><a href="https://www.kellogg.northwestern.edu/">Kellogg School of Management, Northwestern University,</a> May 2025</li>
+  <li style="margin-bottom: 10px;"><a href="https://www.smeal.psu.edu/">Smeal College of Business, Pennsylvania State University,</a> April 2025</li>
   <li style="margin-bottom: 10px;"><a href="https://www.mccombs.utexas.edu/">McCombs School of Business, University of Texas at Austin,</a> November 2024</li>
   <li style="margin-bottom: 10px;"><a href="https://www.marshall.usc.edu/">Marshall School of Business, University of Southern California,</a> November 2024, February 2025</li>
   <li style="margin-bottom: 10px;"><a href="https://www.unibocconi.it/en">School of Management, Bocconi University, Italy,</a> May 2023</li>
