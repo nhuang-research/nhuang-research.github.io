@@ -12,7 +12,7 @@ nav_order: 3
 	<li>Senior Editor, <a href="https://www.poms.org/pomjournal/departments/dpit"> <em>Production and Operations Management,</em> </a> February 2024–</li>
   	<li>Associate Editor, <a href="https://pubsonline.informs.org/page/isre/editorial-board"> <em>Information Systems Research,</em> </a> January 2025–</li>
   	<li>Guest Associate Editor, <a href="https://misq.umn.edu/call-for-papers-ai-ia"><em>Information Systems Research </em>Special Issue on Compassionate Artificial Intelligence,</a> January 2026–</li>
-  	<li>Guest Associate Editor, <a href="#"><em>Information Systems Research </em>Special Issue on Artificial Intelligence-Information Assurance Nexus,</a> November 2024–</li>
+  	<li>Guest Associate Editor, <a href="#"><em>MIS Quarterly </em>Special Issue on Artificial Intelligence-Information Assurance Nexus,</a> November 2024–</li>
   	<li>Associate Editor, <a href="https://misq.org/board"> <em>MIS Quarterly,</em> </a> January 2021–December 2024</li>
   	<li>Co-Editor, <a href="http://poms.org/cfp_POM_SI_ResDataScience.pdf"><em>Production and Operations Management (POM) </em>Special Issue on Responsible Data Science,</a> August 2022</li>
   	<li>Guest Associate Editor, <a href="https://misq.org/skin/frontend/default/misq/pdf/CurrentCalls/DigitalResilience.pdf"><em>MIS Quarterly </em>Special Issue on Digital Resilience,</a> November 2020–March 2022</li>
