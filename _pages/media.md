@@ -11,6 +11,9 @@ nav_order: 4
  
 <ul style="list-style-type: disc;">
   <li style="margin-bottom: 10px;">
+    News@TheU, <a href="https://news.miami.edu/stories/2025/06/labor-feeling-the-squeeze-from-ais-advance.html">Labor Feeling the Squeeze From AI’s Advance,</a> University of Miami, 2025
+  </li>
+  <li style="margin-bottom: 10px;">
     EurekAlert!, <a href="https://www.eurekalert.org/news-releases/1040017">Study: Vanishing Photos Make Dating App Matches Multiply,</a> American Association for the Advancement of Science (AAAS), 2024
   </li>
   <li style="margin-bottom: 10px;">
