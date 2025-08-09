@@ -24,6 +24,7 @@ nav_order: 1
 #### Selected Journal Publications
 
 <ol style="list-style-type: decimal;">
+  <li style="margin-bottom: 10px;">Yuan H, He Q, Wang L, <b>Huang N</b>, Wei Q, Zhang J (2025) <a href="#">What Happens When Machines Become Smarter? An Empirical Investigation of Artificial Intelligence (AI) Opponents in Online Gaming</a>, <em>MIS Quarterly</em>, forthcoming.</li> 
   <li style="margin-bottom: 10px;"><b>Huang N</b>, Burtch G, Chen P, Huang A (2025) <a href="#">Evaluating the Efficacy of Application Costs for Managing Congestion in Online Matching Market</a>, <em>Management Science</em>, forthcoming.</li> 
   <li style="margin-bottom: 10px;">He Y, <b>Huang N</b>, Wang L, Sun Y (2025) <a href="#">Effects of Real-time Sales Data on Streamer Improvisation and Sales Performance: A Randomized Field Experiment on Live-stream Selling</a>, <em>MIS Quarterly</em>, forthcoming.</li> 
   <li style="margin-bottom: 10px;">Wang L, <b>Huang N</b>, He Y, Liu D, Guo X, Sun Y, Chen G (2025) <a href="https://pubsonline.informs.org/doi/10.1287/isre.2023.0103">Artificial Intelligence (AI) Assistant in Online Shopping: A Randomized Field Experiment on a Livestream Selling Platform</a>, <em>Information Systems Research</em>, forthcoming.</li> 
