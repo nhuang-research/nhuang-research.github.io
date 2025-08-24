@@ -57,10 +57,12 @@ Nina has received many awards and recognitions, including <a href="https://pubso
 </p>
 
 <!-- ADD LOGO HERE -->
-<div style="position:fixed; bottom:30px; left:30px; z-index:1000;">
-  <img src="/assets/img/UM-H-BUS-miami Herbert business school-RGB.png" 
-       alt="Miami Herbert Business School Logo" 
-       width="120" 
-       style="height:auto;">
+<div style="text-align:left; margin-top:40px; padding-left:5px;">
+  <a href="https://www.herbert.miami.edu" target="_blank" rel="noopener">
+    <img src="/assets/img/UM-H-BUS-miami Herbert business school-RGB.png" 
+         alt="Miami Herbert Business School logo" 
+         width="120" 
+         style="height:auto; opacity:0.9;">
+  </a>
 </div>
 
