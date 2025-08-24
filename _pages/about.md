@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 <h4>Research Contribution</h4>
 Dr. Huang's research has been published in premier journals (listed in <a href="https://www.ft.com/content/3405a512-5cbb-11e1-8f1f-00144feabdc0"> Financial Times Top 50 Journals</a> and <a href="https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings"> UTD24 Journals</a>) across multiple disciplines:
 <ul>
-  <li>Interdiscplinary
+  <li>Interdisciplinary
     <ul style="list-style-type: none;">
           <li><a href="https://pubsonline.informs.org/journal/mnsc"> <em>Management Science (MS)</em></a></li>
     </ul>
@@ -53,5 +53,5 @@ Nina has received many awards and recognitions, including <a href="https://pubso
 
 <p>
   You can connect with Nina on <a href="https://www.linkedin.com/in/nina-huang"> LinkedIn here</a>.
-  You can find Nina's <a href="https://scholar.google.com/citations?user=pTNPXbMAAAAJ&hl=en" rel="nofollow"> Google Scholar page here</a>. You can also read her latest research papers on her <a href="https://nhuang-research.github.io" rel="nofollow">webpage profile</a>. If you would like to collaborate with Dr. Huang on research or invite her to speak at an event, please <a href="mailto: nhuang@miami.edu" rel="nofollow">contact her here</a>.
+  You can find Nina's <a href="https://scholar.google.com/citations?user=pTNPXbMAAAAJ&hl=en" rel="nofollow"> Google Scholar</a>. You can also read her latest research papers on her <a href="https://nhuang-research.github.io" rel="nofollow">webpage profile</a>. If you would like to collaborate with Dr. Huang on research or invite her to speak at an event, please <a href="mailto: nhuang@miami.edu" rel="nofollow">contact her here</a>.
 </p>
