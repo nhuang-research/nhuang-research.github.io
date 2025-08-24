@@ -55,3 +55,12 @@ Nina has received many awards and recognitions, including <a href="https://pubso
   You can connect with Nina on <a href="https://www.linkedin.com/in/nina-huang"> LinkedIn here</a>.
   You can find Nina's <a href="https://scholar.google.com/citations?user=pTNPXbMAAAAJ&hl=en" rel="nofollow"> Google Scholar</a>. You can also read her latest research papers on her <a href="https://nhuang-research.github.io" rel="nofollow">webpage profile</a>. If you would like to collaborate with Dr. Huang on research or invite her to speak at an event, please <a href="mailto: nhuang@miami.edu" rel="nofollow">contact her here</a>.
 </p>
+
+<!-- ADD LOGO HERE -->
+<div style="position:fixed; bottom:30px; left:30px; z-index:1000;">
+  <img src="/assets/img/UM-H-BUS-miami Herbert business school-RGB.png" 
+       alt="Miami Herbert Business School Logo" 
+       width="120" 
+       style="height:auto;">
+</div>
+
