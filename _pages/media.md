@@ -11,6 +11,9 @@ nav_order: 4
  
 <ul style="list-style-type: disc;">
   <li style="margin-bottom: 10px;">
+    News@TheU, <a href="https://news.miami.edu/miamiherbert/stories/2025/10/how-livestream-sellers-turn-data-into-split-second-decisions.html">How Livestream Sellers Turn Data into Split-Second Decisions,</a> University of Miami, 2025
+  </li>
+  <li style="margin-bottom: 10px;">
     News@TheU, <a href="https://news.miami.edu/stories/2025/08/ai-assistant-for-online-shopping.html">AI Assistant for Online Shopping,</a> University of Miami, 2025
   </li>
   <li style="margin-bottom: 10px;">
