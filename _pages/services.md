@@ -44,11 +44,13 @@ Service for <a href="https://www.poms.org/conferences"> Production and Operation
 
 Service for <a href="https://hicss.hawaii.edu/"> Hawaii International Conference on System Sciences (HICSS):</a> 
 <ul style="list-style-type: none; padding-left: 25px;">
-  	<li>- Co-chair in “Crowd-based Platform” Mini-track, HICSS, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018</li>
+  	<li>- Co-chair in “Crowd-based Platform” Mini-track, HICSS, 2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018</li>
 </ul>
 
 Service for other conferences/ workshops:
 <ul style="list-style-type: none; padding-left: 25px;">
+  	<li>- Mentor for the 2nd INFORMS-ISS ISR Paper Development Workshop for Early Career Scholars, 2025</li>
+  	<li>- Co-Chair for the Inaugural INFORMS Information Systems Society (ISS) Doctoral Consortium, 2024</li>
   	<li>- Conference Co-chair, China Summer Workshop on Information Management (CSWIM), 2023</li>
   	<li>- Mentor for “IS Student Presentations Over the Cloud (ISPOC) Series,” New York University, 2023</li>
   	<li>- Mentor and Panelist for the 3rd AIS SIG DITE Paper Development Workshop on Digital Innovation, Transformation, and Entrepreneurship, 2023</li>
