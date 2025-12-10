@@ -12,12 +12,13 @@ nav_order: 1
 
 <ul style="list-style-type: disc;">
   <li>Human-AI Interaction</li>
-  <li>Online Education and Knowledge Exchange</li>
+  <li>Workflow Automation</li>
+  <li>Digital Content Platform</li>
   <li>Online Matching Platforms</li>
   <li>Online Healthcare</li>
   <li>Future of Work</li>
   <li>Social Media Analytics</li>
-  <li>Online Commerce and Content Platforms</li>
+  <li>Online Commerce</li>
 </ul>
  
 

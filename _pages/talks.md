@@ -9,9 +9,10 @@ nav_order: 2
 
 
 <ul style="list-style-type: disc;">
-  <li style="margin-bottom: 10px;"><a href="https://freeman.tulane.edu//">A.B. Freeman School of Business, Tulane University</a> April 2026</li>
-  <li style="margin-bottom: 10px;"><a href="https://www.depts.ttu.edu/rawlsbusiness//">Rawls College of Business, Texas Tech University</a> December 2025</li>
-  <li style="margin-bottom: 10px;"><a href="https://www.bu.edu/questrom///">Questrom School of Business, Boston University</a> October 2025</li>
+  <li style="margin-bottom: 10px;"><a href="https://freeman.tulane.edu//">A.B. Freeman School of Business, Tulane University,</a> April 2026</li>
+  <li style="margin-bottom: 10px;"><a href="https://www.depts.ttu.edu/rawlsbusiness//">Rawls College of Business, Texas Tech University,</a> December 2025</li>
+  <li style="margin-bottom: 10px;"><a href="https://fisher.osu.edu///">Fisher College of Business, Ohio State University,</a> November 2025</li>
+  <li style="margin-bottom: 10px;"><a href="https://www.bu.edu/questrom///">Questrom School of Business, Boston University,</a> October 2025</li>
   <li style="margin-bottom: 10px;"><a href="https://english.ckgsb.edu.cn/">Cheung Kong Graduate School of Business,</a> June 2025</li>
   <li style="margin-bottom: 10px;"><a href="https://www.kellogg.northwestern.edu/">Kellogg School of Management, Northwestern University,</a> May 2025</li>
   <li style="margin-bottom: 10px;"><a href="https://www.smeal.psu.edu/">Smeal College of Business, Pennsylvania State University,</a> April 2025</li>
