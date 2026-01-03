@@ -23,6 +23,7 @@ nav_order: 3
 #### Conference Services
 Service for <a href="https://aisel.aisnet.org/icis"> International Conference on Information Systems (ICIS):</a> 
 <ul style="list-style-type: none; padding-left: 25px;">
+	<li>- Mentor & Competition Winner in “Paper-A-Thon,” ICIS, 2025</li>
   	<li>- Track Co-chair in “User Behavior, Engagement, and Consequences,” ICIS, 2024, 2023, 2021</li>
   	<li>- Session Chair in “User Behavior in Online Platforms,” ICIS, 2020</li>
   	<li>- Associate Editor in “User Behaviors, User Engagement, and Consequences” Track, ICIS, 2020</li>
