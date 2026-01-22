@@ -25,7 +25,7 @@ nav_order: 1
 #### Selected Journal Publications
 
 <ol style="list-style-type: decimal;">
-  <li style="margin-bottom: 10px;">Huang A, <b>Huang N</b>, Hong Y (2026) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4969718">Workflow Automation in Open-Source Software Development: Accelerating Innovation through Mechanization and Orchestration</a>, <em>Information Systems Research</em>, forthcoming.</li> 
+  <li style="margin-bottom: 10px;">Huang A, <b>Huang N</b>, Hong Y (2026) <a href="https://pubsonline.informs.org/doi/10.1287/isre.2024.1551">Workflow Automation in Open-Source Software Development: Accelerating Innovation through Mechanization and Orchestration</a>, <em>Information Systems Research</em>, forthcoming.</li> 
   <li style="margin-bottom: 10px;">Yuan H, He Q, Wang L, <b>Huang N</b>, Wei Q, Zhang J (2026) <a href="https://misq.umn.edu/misq/article-abstract/doi/10.25300/MISQ/2025/18603/3258/What-Happens-When-Machines-Become-Smarter-An">What Happens When Machines Become Smarter? An Empirical Investigation of Artificial Intelligence (AI) Opponents in Online Gaming</a>, <em>MIS Quarterly</em>, forthcoming.</li> 
   <li style="margin-bottom: 10px;"><b>Huang N</b>, Burtch G, Chen P, Huang A (2026) <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2021.03495">Evaluating the Efficacy of Application Costs for Managing Congestion in Online Matching Market</a>, <em>Management Science</em>, forthcoming.</li> 
   <li style="margin-bottom: 10px;">Li B, <b>Huang N</b>, Shi W (2026) <a href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2022.0402">Forced to Change? Media Exposure of Labor Issues and Firm Artificial Intelligence (AI) Investment</a>, <em>Information Systems Research</em>, forthcoming.</li> 
