@@ -11,7 +11,7 @@ nav_order: 4
  
 <ul style="list-style-type: disc;">
   <li style="margin-bottom: 10px;">
-    McKinlay, T. (2026). <a href="https://app.sciencesays.com/p/ask-users-to-register-at-the-start-not-the-end">Ask Users to Register at the Start (Not the End),</a> <em> Science Says.</em>
+    McKinlay, T. (2026, January 27). <a href="https://app.sciencesays.com/p/ask-users-to-register-at-the-start-not-the-end">Ask Users to Register at the Start (Not the End),</a> <em> Science Says.</em>
   </li>
   <li style="margin-bottom: 10px;">
     News@TheU, <a href="https://news.miami.edu/miamiherbert/stories/2025/10/how-livestream-sellers-turn-data-into-split-second-decisions.html">How Livestream Sellers Turn Data into Split-Second Decisions,</a> University of Miami, 2025
