@@ -10,6 +10,9 @@ nav_order: 4
 #### Selected Media Mentions and Reports
  
 <ul style="list-style-type: disc;">
+    `<li style="margin-bottom: 10px;">
+    McKinlay T, <a href="https://app.sciencesays.com/p/ask-users-to-register-at-the-start-not-the-end">Ask Users to Register at the Start (Not the End),</a> Science Says, 2026
+  </li>
   <li style="margin-bottom: 10px;">
     News@TheU, <a href="https://news.miami.edu/miamiherbert/stories/2025/10/how-livestream-sellers-turn-data-into-split-second-decisions.html">How Livestream Sellers Turn Data into Split-Second Decisions,</a> University of Miami, 2025
   </li>
