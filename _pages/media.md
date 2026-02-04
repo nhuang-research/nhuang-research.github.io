@@ -26,10 +26,10 @@ nav_order: 4
     McCrory-Tulane, M. (2024, April 5). <a href="https://www.futurity.org/disappearing-photos-dating-apps-3203092-2/?utm_source=rss&utm_medium=rss&utm_campaign=disappearing-photos-dating-apps-3203092-2">Disappearing Photos Increase Dating App Matches,</a> <em> Futurity.</em>
   </li>
   <li style="margin-bottom: 10px;">
-    EurekAlert! (2024, April 3). <a href="https://www.eurekalert.org/news-releases/1040017">Study: Vanishing Photos Make Dating App Matches Multiply,</a> <em> EurekAlert! Science News Releases.</em>
+    EurekAlert! (2024, April 3). <a href="https://www.eurekalert.org/news-releases/1040017">Study: Vanishing Photos Make Dating App Matches Multiply,</a> <em> EurekAlert!, Science News Releases.</em>
   </li>
   <li style="margin-bottom: 10px;">
-    Phys.org (2024, April 3). <a href="https://phys.org/news/2024-04-photos-dating-app.html">Study: Vanishing Photos Make Dating App Matches Multiply,</a> <em> Science X.</em>
+    Phys.org (2024, April 3). <a href="https://phys.org/news/2024-04-photos-dating-app.html">Study: Vanishing Photos Make Dating App Matches Multiply,</a> <em> Phys.org, Science X.</em>
   </li>
   <li style="margin-bottom: 10px;">
     Swift Telecast, <a href="https://swifttelecast.com/vanishing-photos-make-dating-app-matches-multiply/">Study: Vanishing Photos Make Dating App Matches Multiply,</a> Swift Telecast, 2024
