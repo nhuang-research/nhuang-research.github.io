@@ -14,13 +14,13 @@ nav_order: 4
     McKinlay, T. (2026, January 27). <a href="https://app.sciencesays.com/p/ask-users-to-register-at-the-start-not-the-end">Ask Users to Register at the Start (Not the End),</a> <em> Science Says.</em>
   </li>
   <li style="margin-bottom: 10px;">
-    News@TheU, <a href="https://news.miami.edu/miamiherbert/stories/2025/10/how-livestream-sellers-turn-data-into-split-second-decisions.html">How Livestream Sellers Turn Data into Split-Second Decisions,</a> University of Miami, 2025
+    Hooker, D. (2025, October 8). <a href="https://news.miami.edu/miamiherbert/stories/2025/10/how-livestream-sellers-turn-data-into-split-second-decisions.html">How Livestream Sellers Turn Data into Split-Second Decisions,</a> <em> News@TheU, University of Miami.</em> 
   </li>
   <li style="margin-bottom: 10px;">
-    News@TheU, <a href="https://news.miami.edu/stories/2025/08/ai-assistant-for-online-shopping.html">AI Assistant for Online Shopping,</a> University of Miami, 2025
+    Malone, M. (2025, August 12). <a href="https://news.miami.edu/stories/2025/08/ai-assistant-for-online-shopping.html">AI Assistant for Online Shopping,</a> <em> News@TheU, University of Miami.</em>
   </li>
   <li style="margin-bottom: 10px;">
-    News@TheU, <a href="https://news.miami.edu/stories/2025/06/labor-feeling-the-squeeze-from-ais-advance.html">Labor Feeling the Squeeze From AI’s Advance,</a> University of Miami, 2025
+    Malone, M. (2025, June 11). <a href="https://news.miami.edu/stories/2025/06/labor-feeling-the-squeeze-from-ais-advance.html">Labor Feeling the Squeeze From AI’s Advance,</a> <em> News@TheU, University of Miami.</em>
   </li>
   <li style="margin-bottom: 10px;">
     EurekAlert!, <a href="https://www.eurekalert.org/news-releases/1040017">Study: Vanishing Photos Make Dating App Matches Multiply,</a> American Association for the Advancement of Science (AAAS), 2024
