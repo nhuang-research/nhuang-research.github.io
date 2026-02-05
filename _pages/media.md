@@ -50,13 +50,13 @@ nav_order: 4
     Malone, M. (2022, August 25). <a href="https://news.miami.edu/stories/2022/08/university-researchers-help-level-the-playing-field-of-online-dating.html">University Researchers Help Level the Playing Field of Online Dating,</a> <em> News@TheU, University of Miami.</em>
   </li>
   <li style="margin-bottom: 10px;">
-    UH Today, <a href="https://www.bauer.uh.edu/news/2021/bauer-professor-recognized-by-information-systems-society/?utm_source=bauer.uh.edu&utm_medium=referral&utm_campaign=Homepage+Latest+News">Bauer Professor Recognized by Information Systems Society,</a> University of Houston, 2021
+    Bonnin, J. (2021, December 8). <a href="https://www.bauer.uh.edu/news/2021/bauer-professor-recognized-by-information-systems-society/?utm_source=bauer.uh.edu&utm_medium=referral&utm_campaign=Homepage+Latest+News">Bauer Professor Recognized by Information Systems Society,</a> <em> UH Today, University of Houston.</em>
   </li>
   <li style="margin-bottom: 10px;">
-    Bauer Business Focus, <a href="https://www.houstonpublicmedia.org/articles/shows/bauer-business-focus/2021/02/22/391996/online-shopping-register-purchase-repeat/">Online Shopping: Register. Purchase. Repeat,</a> Houston Public Media, 2021
+    Mueller, D. (2021, February 22). <a href="https://www.houstonpublicmedia.org/articles/shows/bauer-business-focus/2021/02/22/391996/online-shopping-register-purchase-repeat/">Online Shopping: Register. Purchase. Repeat,</a> <em> Bauer Business Focus, Houston Public Media.</em>
   </li>
   <li style="margin-bottom: 10px;">
-    W. P. Carey Magazine, <a href="https://wpcareymagazine.com/issue/autumn-2020/words-to-sell-by-word-of-mouth-systems-can-raise-online-profits/">Words to Sell By: Word-of-Mouth Systems Can Raise Online Profits,</a> Arizona State University, 2020
+    Loeff, B. (2020). <a href="https://wpcareymagazine.com/issue/autumn-2020/words-to-sell-by-word-of-mouth-systems-can-raise-online-profits/">Words to Sell By: Word-of-Mouth Systems Can Raise Online Profits,</a> <em> W. P. Carey Magazine, Arizona State University.</em>
   </li>
   <li style="margin-bottom: 10px;">
     UH Today, <a href="https://cloudapps.uh.edu/sendit/w/dTQKORPHoei6cuJWjexjjw/YnMQUW1VLUcjNrID5m0zPA/K7tlW4BPkWTFGLrAjYkerg">Bauer Researcher Examines Effectiveness of Promotional Incentives,</a> University of Houston, 2020
