@@ -31,23 +31,23 @@ nav_order: 4
   <li style="margin-bottom: 10px;">
     Phys.org (2024, April 3). <a href="https://phys.org/news/2024-04-photos-dating-app.html">Study: Vanishing Photos Make Dating App Matches Multiply,</a> <em> Phys.org, Science X.</em>
   </li>
-  <li style="margin-bottom: 10px;">
+<!--   <li style="margin-bottom: 10px;">
     Swift Telecast, <a href="https://swifttelecast.com/vanishing-photos-make-dating-app-matches-multiply/">Study: Vanishing Photos Make Dating App Matches Multiply,</a> Swift Telecast, 2024
+  </li> -->
+  <li style="margin-bottom: 10px;">
+    Tulande, M. (2023, August 8). <a href="https://news.miami.edu/miamiherbert/stories/2023/08/miami-herbert-professors-shine-in-global-information-systems-rankings.html">Miami Herbert Professors Shine in Global Information Systems Rankings,</a> <em>Miami Herbert Stories, University of Miami Herbert Business School.</em>
   </li>
   <li style="margin-bottom: 10px;">
-    Business Insider, <a href="https://www.businessinsider.com/recession-outlook-laid-off-workers-turn-to-gig-work-2023-1">Get Ready for a Gig-Worker Boom That Could Make It Harder for Contractors to Earn a Living,</a>  Insider Inc., 2023
-  </li>
-  <li style="margin-bottom: 10px;">
-    Miami Herbert Stories, <a href="https://news.miami.edu/miamiherbert/stories/2023/08/miami-herbert-professors-shine-in-global-information-systems-rankings.html">Miami Herbert Professors Shine in Global Information Systems Rankings,</a> University of Miami Herbert Business School, 2023
+    Zinkula, J. (2023, January 22). <a href="https://www.businessinsider.com/recession-outlook-laid-off-workers-turn-to-gig-work-2023-1">Get Ready for a Gig-Worker Boom That Could Make It Harder for Contractors to Earn a Living,</a> <em> Business Insider, Insider Inc.</em>
   </li>
     <li style="margin-bottom: 10px;">
-    2022 Best Undergraduate Professors, <a href="https://poetsandquantsforundergrads.com/news/2022-best-undergraduate-professors-nina-ni-huang-university-of-miami-herbert-business-school/">Nina (Ni) Huang, University of Miami Herbert Business School,</a> Poets&Quants for Undergrads, 2022
+    Bleizeffer, K. (2022, December 11). <a href="https://poetsandquantsforundergrads.com/news/2022-best-undergraduate-professors-nina-ni-huang-university-of-miami-herbert-business-school/">Nina (Ni) Huang, University of Miami Herbert Business School,</a> <em> Poets&Quants for Undergrads, Poets&Quants.</em>
   </li>
   <li style="margin-bottom: 10px;">
-    This IS Research Podcast, <a href="https://open.spotify.com/episode/2ztG1Ird6LCmTNFf4YdRfp">Causality Meets Diversity,</a> Spotify, 2022
+    Berente, N. & Recker J. (2022, November 23). <a href="https://open.spotify.com/episode/2ztG1Ird6LCmTNFf4YdRfp?si=409b886f89b146e0">Causality Meets Diversity,</a> <em> This IS Research Podcast, Spotify.</em>
   </li>
   <li style="margin-bottom: 10px;">
-    News@TheU, <a href="https://news.miami.edu/stories/2022/08/university-researchers-help-level-the-playing-field-of-online-dating.html">University Researchers Help Level the Playing Field of Online Dating,</a> University of Miami, 2022
+    Malone, M. (2022, August 25). <a href="https://news.miami.edu/stories/2022/08/university-researchers-help-level-the-playing-field-of-online-dating.html">University Researchers Help Level the Playing Field of Online Dating,</a> <em> News@TheU, University of Miami.</em>
   </li>
   <li style="margin-bottom: 10px;">
     UH Today, <a href="https://www.bauer.uh.edu/news/2021/bauer-professor-recognized-by-information-systems-society/?utm_source=bauer.uh.edu&utm_medium=referral&utm_campaign=Homepage+Latest+News">Bauer Professor Recognized by Information Systems Society,</a> University of Houston, 2021
