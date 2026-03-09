@@ -16,25 +16,59 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <style>
-.profile img {
+.nh-spin-wrap {
   position: relative;
-  z-index: 1;
-  outline: 3px solid transparent;
+  display: inline-block;
+  border-radius: 50%;
+}
+.nh-spin-wrap::before {
+  content: '';
+  position: absolute;
+  inset: -6px;
+  border-radius: 50%;
+  background: conic-gradient(
+    from 0deg,
+    #F47321 0deg 60deg,
+    transparent 60deg 180deg,
+    #005030 180deg 270deg,
+    transparent 270deg 360deg
+  );
   animation: nhSpin 12s linear infinite;
-  background:
-    conic-gradient(#1a1a1a, #1a1a1a) padding-box,
-    conic-gradient(
-      from 0deg,
-      #F47321 0deg 60deg,
-      transparent 60deg 180deg,
-      #005030 180deg 270deg,
-      transparent 270deg 360deg
-    ) border-box;
-  border: 3px solid transparent;
-  box-sizing: border-box;
+  z-index: 0;
+}
+.nh-spin-wrap::after {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  border-radius: 50%;
+  background: #1a1a1a;
+  z-index: 1;
+}
+.nh-spin-wrap img {
+  position: relative;
+  z-index: 2;
+  display: block;
 }
 @keyframes nhSpin { to { transform: rotate(360deg); } }
 </style>
+
+<script>
+(function() {
+  function init() {
+    var img = document.querySelector('.profile img');
+    if (!img || img.parentNode.classList.contains('nh-spin-wrap')) return;
+    var wrap = document.createElement('span');
+    wrap.className = 'nh-spin-wrap';
+    img.parentNode.insertBefore(wrap, img);
+    wrap.appendChild(img);
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
 
 <p> <a href="https://people.miami.edu/profile/nxh558@miami.edu/"> Nina Huang </a> is the Dennis & Smith Family Endowed Chair Professor of Business Technology at the Miami Herbert Business School, University of Miami, Florida. Nina's expertise centers on understanding how digital technology can enhance user experiences and improve business outcomes. Her research program covers a range of digital contexts, including live streaming, online dating, online learning, online healthcare, mobile applications, and digital commerce. Nina currently serves as a Senior Editor at <em>Production and Operations Management</em> and an Associate Editor at <em>Information Systems Research</em>. She previously served as the Vice President of INFORMS Information Systems Society from 2023 to 2025 and an Associate Editor at <em>MIS Quarterly</em> from 2021 to 2024.</p>
 
