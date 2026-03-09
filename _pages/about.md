@@ -15,6 +15,27 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+<style>
+.profile img {
+  position: relative;
+  z-index: 1;
+  outline: 3px solid transparent;
+  animation: nhSpin 12s linear infinite;
+  background:
+    conic-gradient(#1a1a1a, #1a1a1a) padding-box,
+    conic-gradient(
+      from 0deg,
+      #F47321 0deg 60deg,
+      transparent 60deg 180deg,
+      #005030 180deg 270deg,
+      transparent 270deg 360deg
+    ) border-box;
+  border: 3px solid transparent;
+  box-sizing: border-box;
+}
+@keyframes nhSpin { to { transform: rotate(360deg); } }
+</style>
+
 <p> <a href="https://people.miami.edu/profile/nxh558@miami.edu/"> Nina Huang </a> is the Dennis & Smith Family Endowed Chair Professor of Business Technology at the Miami Herbert Business School, University of Miami, Florida. Nina's expertise centers on understanding how digital technology can enhance user experiences and improve business outcomes. Her research program covers a range of digital contexts, including live streaming, online dating, online learning, online healthcare, mobile applications, and digital commerce. Nina currently serves as a Senior Editor at <em>Production and Operations Management</em> and an Associate Editor at <em>Information Systems Research</em>. She previously served as the Vice President of INFORMS Information Systems Society from 2023 to 2025 and an Associate Editor at <em>MIS Quarterly</em> from 2021 to 2024.</p>
 
 <h4>Research Contributions</h4>
