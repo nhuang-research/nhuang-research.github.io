@@ -106,21 +106,11 @@ Dr. Huang's research has been published in premier journals (listed in <a href="
 Nina has received many awards and recognitions, including <a href="https://pubsonline.informs.org/do/10.1287/orms.2024.01.25n"> a Senior Member of Institute for Operations Research and the Management Sciences (INFORMS)</a>, <a href="https://aisnet.org/page/DistinguishedMemberList"> a Distinguished Member of the Association for Information Systems (AIS)</a>, <a href="https://www.informs.org/Recognizing-Excellence/Community-Prizes/Information-Systems-Society/ISS-Sandra-A.-Slaughter-Early-Career-Award"> the INFORMS Sandra A. Slaughter Early Career Award</a>, <a href="https://ishistory.aisnet.org/awards/earlycareeraward/"> the AIS Early Career Award</a>, <a href="https://misq.umn.edu/awards-reviewer"> an Outstanding Reviewer of the Year at <em>MIS Quarterly</em></a>, and <a href="https://pubsonline.informs.org/page/isre/awards"> the Best Reviewer of the Year at <em>Information Systems Research</em></a>.
 </p>
 
-<h4>Connect & Collaborate</h4>
+<!-- <h4>Connect & Collaborate</h4>
 <p>
   You can connect with Nina on <a href="https://www.linkedin.com/in/nina-huang"> LinkedIn here</a>.
   You can find Nina's <a href="https://scholar.google.com/citations?user=pTNPXbMAAAAJ&hl=en" rel="nofollow"> Google Scholar</a>. If you would like to collaborate with Dr. Nina Huang on research or invite her to speak at an event, please <a href="mailto: nhuang@miami.edu" rel="nofollow">contact her here</a>.
-</p>
-
-<!-- ADD LOGO HERE -->
-<div style="text-align:left; margin-top:30px; padding-left:5px;">
-  <a href="https://www.herbert.miami.edu" target="_blank" rel="noopener">
-    <img src="/assets/img/UM-H-BUS-miami Herbert business school-RGB.png" 
-         alt="Miami Herbert Business School logo" 
-         width="150" 
-         style="height:auto; opacity:0.9;">
-  </a>
-</div>
+</p> -->
 
 <h4>Connect & Collaborate</h4>
 
@@ -172,3 +162,12 @@ Nina has received many awards and recognitions, including <a href="https://pubso
   </a>
 </div>
 
+<!-- ADD LOGO HERE -->
+<div style="text-align:left; margin-top:30px; padding-left:5px;">
+  <a href="https://www.herbert.miami.edu" target="_blank" rel="noopener">
+    <img src="/assets/img/UM-H-BUS-miami Herbert business school-RGB.png" 
+         alt="Miami Herbert Business School logo" 
+         width="150" 
+         style="height:auto; opacity:0.9;">
+  </a>
+</div>
