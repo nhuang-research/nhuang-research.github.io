@@ -122,3 +122,53 @@ Nina has received many awards and recognitions, including <a href="https://pubso
   </a>
 </div>
 
+<h4>Connect & Collaborate</h4>
+
+<style>
+.nh-btn {
+  display: inline-flex; align-items: center; gap: 7px;
+  padding: 0.55rem 1.2rem;
+  border-radius: 100px;
+  font-size: 0.8rem; font-weight: 500;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  margin-bottom: 0.5rem;
+}
+.nh-btn-green {
+  background: rgba(0,80,48,0.15);
+  color: #4caf82;
+  border: 1px solid rgba(0,80,48,0.4);
+}
+.nh-btn-green:hover {
+  background: #005030;
+  color: #fff;
+  border-color: #005030;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 16px rgba(0,80,48,0.3);
+}
+.nh-btn-orange {
+  background: rgba(244,115,33,0.1);
+  color: #F47321;
+  border: 1px solid rgba(244,115,33,0.35);
+}
+.nh-btn-orange:hover {
+  background: #F47321;
+  color: #fff;
+  border-color: #F47321;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 16px rgba(244,115,33,0.3);
+}
+</style>
+
+<div style="display:flex; gap:0.6rem; flex-wrap:wrap; margin:1rem 0 1.5rem;">
+  <a class="nh-btn nh-btn-green" href="https://www.linkedin.com/in/nina-huang" target="_blank">
+    💼 LinkedIn
+  </a>
+  <a class="nh-btn nh-btn-green" href="https://scholar.google.com/citations?user=pTNPXbMAAAAJ&hl=en" target="_blank" rel="nofollow">
+    🎓 Google Scholar
+  </a>
+  <a class="nh-btn nh-btn-orange" href="mailto:nhuang@miami.edu" rel="nofollow">
+    ✉️ Contact
+  </a>
+</div>
+
