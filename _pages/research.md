@@ -32,7 +32,7 @@ nav_order: 1
 }
 .nh-section:first-of-type { border-top: none; }
 .nh-section-label {
-  font-size: 0.75rem; font-weight: 500;
+  font-size: 0.85rem; font-weight: 500;
   letter-spacing: 0.18em; text-transform: uppercase;
   color: var(--text-lo); padding-top: 0.2rem;
   position: sticky; top: 72px; height: fit-content;
@@ -177,7 +177,8 @@ nav_order: 1
       <div class="area-tag">Human-AI Interaction</div>
       <div class="area-tag">Workflow Automation</div>
       <div class="area-tag">Digital Content Platform</div>
-      <div class="area-tag">Online Matching Platforms</div>
+      <div class="area-tag">Online Dating Platforms</div>
+      <div class="area-tag">Online Labor Platforms</div>
       <div class="area-tag">Online Healthcare</div>
       <div class="area-tag">Future of Work</div>
       <div class="area-tag">Social Media Analytics</div>
