@@ -113,7 +113,7 @@ nav_order: 1
 .pub-item.hidden { display: none; }
 
 .pub-num {
-  font-size: 0.72rem; font-weight: 500; letter-spacing: 0.06em;
+  font-size: 0.8rem; font-weight: 500; letter-spacing: 0.06em;
   color: var(--text-lo); padding-top: 4px; transition: color 0.2s;
 }
 .pub-item:hover .pub-num { color: #F47321; }
@@ -121,13 +121,13 @@ nav_order: 1
 .pub-body { display: flex; flex-direction: column; gap: 0.35rem; }
 
 .pub-title {
-  font-size: 0.9rem; font-weight: 400; color: var(--text-hi);
+  font-size: 1.0rem; font-weight: 400; color: var(--text-hi);
   line-height: 1.5; text-decoration: none; transition: color 0.2s;
 }
 .pub-title:hover { color: #8cc4de; }
 
 .pub-authors {
-  font-size: 0.78rem; font-weight: 300; color: var(--text-mid); line-height: 1.5;
+  font-size: 0.8rem; font-weight: 300; color: var(--text-mid); line-height: 1.5;
 }
 .pub-authors strong { color: var(--text); font-weight: 400; }
 
@@ -136,20 +136,20 @@ nav_order: 1
   flex-wrap: wrap; margin-top: 0.15rem;
 }
 .pub-journal {
-  font-size: 0.7rem; font-weight: 300; font-style: italic; color: var(--text-mid);
+  font-size: 0.8rem; font-weight: 300; font-style: italic; color: var(--text-mid);
 }
 .pub-year {
-  font-size: 0.65rem; font-weight: 300; color: var(--text-lo); letter-spacing: 0.05em;
+  font-size: 0.8rem; font-weight: 300; color: var(--text-lo); letter-spacing: 0.05em;
 }
 .pub-note {
-  font-size: 0.6rem; font-weight: 500; letter-spacing: 0.1em;
+  font-size: 0.8rem; font-weight: 500; letter-spacing: 0.1em;
   text-transform: uppercase; color: var(--green-hi);
   border: 1px solid rgba(0,160,96,0.3);
   padding: 0.1rem 0.5rem;
   clip-path: polygon(4px 0%, 100% 0%, calc(100% - 4px) 100%, 0% 100%);
 }
 .pub-badge {
-  font-size: 0.68rem; font-weight: 500; letter-spacing: 0.1em;
+  font-size: 0.8rem; font-weight: 500; letter-spacing: 0.1em;
   color: var(--text-lo); white-space: nowrap;
   padding-top: 3px; transition: color 0.2s; text-align: right;
 }
