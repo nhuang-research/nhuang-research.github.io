@@ -40,7 +40,9 @@ nav_order: 1
 
 /* ── RESEARCH AREAS ── */
 .area-grid {
-  display: flex; flex-wrap: wrap; gap: 0.5rem;
+  display: grid;
+  grid-template-columns: repeat(3, max-content);
+  gap: 0.5rem;
   padding: 1rem 0 1.5rem;
 }
 .area-tag {
