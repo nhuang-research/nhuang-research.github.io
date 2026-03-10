@@ -51,10 +51,6 @@ social: false # includes social icons at the bottom of the page
 }
 @keyframes nhSpin { to { transform: rotate(360deg); } }
 
-/* Name color */
-h1.post-title {
-  color: #005030 !important;
-}
 </style>
 
 <script>
