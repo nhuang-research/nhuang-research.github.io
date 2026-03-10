@@ -51,7 +51,29 @@ social: false # includes social icons at the bottom of the page
 }
 @keyframes nhSpin { to { transform: rotate(360deg); } }
 
+/* Custom cursor */
+.nh-cursor {
+  position: fixed; top: 0; left: 0;
+  width: 8px; height: 8px;
+  background: #F47321; border-radius: 50%;
+  pointer-events: none; z-index: 9999;
+  transform: translate(-50%,-50%);
+  transition: width 0.2s, height 0.2s;
+}
+.nh-cursor-ring {
+  position: fixed; top: 0; left: 0;
+  width: 32px; height: 32px;
+  border: 1px solid rgba(244,115,33,0.35); border-radius: 50%;
+  pointer-events: none; z-index: 9998;
+  transform: translate(-50%,-50%);
+  transition: left 0.1s ease-out, top 0.1s ease-out, width 0.25s, height 0.25s;
+}
+body { cursor: none !important; }
+a { cursor: none !important; }
 </style>
+
+<div class="nh-cursor" id="nhCursor"></div>
+<div class="nh-cursor-ring" id="nhCursorRing"></div>
 
 <script>
 (function() {
@@ -177,3 +199,24 @@ Nina has received many awards and recognitions, including <a href="https://pubso
          style="height:auto; opacity:0.9;">
   </a>
 </div>
+
+<script>
+var nhCursor = document.getElementById('nhCursor');
+var nhRing = document.getElementById('nhCursorRing');
+document.addEventListener('mousemove', function(e) {
+  nhCursor.style.left = e.clientX + 'px';
+  nhCursor.style.top = e.clientY + 'px';
+  nhRing.style.left = e.clientX + 'px';
+  nhRing.style.top = e.clientY + 'px';
+});
+document.querySelectorAll('a, button').forEach(function(el) {
+  el.addEventListener('mouseenter', function() {
+    nhCursor.style.width = '14px'; nhCursor.style.height = '14px';
+    nhRing.style.width = '44px'; nhRing.style.height = '44px';
+  });
+  el.addEventListener('mouseleave', function() {
+    nhCursor.style.width = '8px'; nhCursor.style.height = '8px';
+    nhRing.style.width = '32px'; nhRing.style.height = '32px';
+  });
+});
+</script>
