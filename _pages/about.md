@@ -88,7 +88,8 @@ Dr. Huang's research has been published in premier journals (listed in <a href="
     <ul style="list-style-type: none;">
       <li><a href="https://pubsonline.informs.org/journal/isre"> <em>Information Systems Research (ISR)</em></a></li>
       <li><a href="https://misq.umn.edu"> <em>MIS Quarterly (MISQ)</em></a></li>
-      <li><a href="https://www.jmis-web.org"> <em>Journal of Management Information Systems (JMIS)</em></a></li>            
+      <li><a href="https://www.jmis-web.org"> <em>Journal of Management Information Systems (JMIS)</em></a></li>
+      <li><a href="https://aisel.aisnet.org/jais/"> <em>Journal of the Association for Information Systems (JAIS)</em></a></li>             
     </ul>
   </li>
  
