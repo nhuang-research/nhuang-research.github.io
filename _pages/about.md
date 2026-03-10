@@ -159,7 +159,7 @@ Nina has received many awards and recognitions, including <a href="https://pubso
     🎓 &nbsp; Google Scholar
   </a>
   <a class="nh-btn nh-btn-green" href="mailto:nhuang@miami.edu" rel="nofollow">
-    ✉️ &nbsp; Contact
+    ✉️ &nbsp; Contact Me
   </a>
 </div>
 
