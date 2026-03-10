@@ -30,7 +30,7 @@ nav_order: 1
   grid-template-columns: 100px 1fr;
   gap: 4rem;
 }
-.nh-section:first-of-type { border-top: none; }
+.nh-section:first-of-type { border-top: none; padding-top: 1rem;}
 .nh-section-label {
   font-size: 0.85rem; font-weight: 500;
   letter-spacing: 0.18em; text-transform: uppercase;
@@ -67,7 +67,7 @@ nav_order: 1
   flex-wrap: wrap; padding: 3rem 0 2rem;
 }
 .filter-btn {
-  font-size: 0.68rem; font-weight: 400; letter-spacing: 0.1em;
+  font-size: 0.8rem; font-weight: 400; letter-spacing: 0.1em;
   text-transform: uppercase; padding: 0.4rem 1rem;
   border: 1px solid var(--line); color: var(--text-lo);
   background: transparent; cursor: none;
@@ -178,7 +178,7 @@ nav_order: 1
       <div class="area-tag">Workflow Automation</div>
       <div class="area-tag">Digital Content Platform</div>
       <div class="area-tag">Online Dating Platforms</div>
-      <div class="area-tag">Online Labor Platforms</div>
+      <div class="area-tag">Online Labor Markets</div>
       <div class="area-tag">Online Healthcare</div>
       <div class="area-tag">Future of Work</div>
       <div class="area-tag">Social Media Analytics</div>
