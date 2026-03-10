@@ -27,12 +27,12 @@ nav_order: 1
   padding-top: 3.5rem;
   margin-bottom: 0;
   display: grid;
-  grid-template-columns: 180px 1fr;
+  grid-template-columns: 100px 1fr;
   gap: 4rem;
 }
 .nh-section:first-of-type { border-top: none; }
 .nh-section-label {
-  font-size: 0.72rem; font-weight: 500;
+  font-size: 0.75rem; font-weight: 500;
   letter-spacing: 0.18em; text-transform: uppercase;
   color: var(--text-lo); padding-top: 0.2rem;
   position: sticky; top: 72px; height: fit-content;
@@ -44,7 +44,7 @@ nav_order: 1
   padding: 1rem 0 1.5rem;
 }
 .area-tag {
-  font-size: 0.75rem; font-weight: 300; letter-spacing: 0.06em;
+  font-size: 0.85rem; font-weight: 300; letter-spacing: 0.06em;
   padding: 0.5rem 1.1rem;
   border: 1px solid var(--line);
   color: #ffffff;

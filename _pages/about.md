@@ -50,7 +50,6 @@ social: false # includes social icons at the bottom of the page
   display: block;
 }
 @keyframes nhSpin { to { transform: rotate(360deg); } }
-
 </style>
 
 
