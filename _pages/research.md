@@ -7,30 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-<!-- CURSOR -->
-<div class="nh-cursor" id="nhCursor"></div>
-<div class="nh-cursor-ring" id="nhCursorRing"></div>
-
 <style>
-/* ── CURSOR ── */
-.nh-cursor {
-  position: fixed; top: 0; left: 0;
-  width: 8px; height: 8px;
-  background: #F47321; border-radius: 50%;
-  pointer-events: none; z-index: 9999;
-  transform: translate(-50%,-50%);
-  transition: width 0.2s, height 0.2s;
-}
-.nh-cursor-ring {
-  position: fixed; top: 0; left: 0;
-  width: 32px; height: 32px;
-  border: 1px solid rgba(244,115,33,0.35); border-radius: 50%;
-  pointer-events: none; z-index: 9998;
-  transform: translate(-50%,-50%);
-  transition: left 0.1s ease-out, top 0.1s ease-out, width 0.25s, height 0.25s;
-}
-body { cursor: none !important; }
-a, button { cursor: none !important; }
 
 /* ── RESEARCH WRAPPER ── */
 .nh-research {
@@ -64,13 +41,13 @@ a, button { cursor: none !important; }
 /* ── RESEARCH AREAS ── */
 .area-grid {
   display: flex; flex-wrap: wrap; gap: 0.5rem;
-  padding: 3rem 0 4rem;
+  padding: 1rem 0 1.5rem;
 }
 .area-tag {
   font-size: 0.75rem; font-weight: 300; letter-spacing: 0.06em;
   padding: 0.5rem 1.1rem;
   border: 1px solid var(--line);
-  color: var(--text-mid);
+  color: #ffffff;
   background: transparent;
   clip-path: polygon(6px 0%, 100% 0%, calc(100% - 6px) 100%, 0% 100%);
   transition: all 0.2s ease; cursor: none;
