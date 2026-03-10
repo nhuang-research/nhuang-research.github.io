@@ -152,13 +152,13 @@ Nina has received many awards and recognitions, including <a href="https://pubso
 
 <div style="display:flex; gap:0.6rem; flex-wrap:wrap; margin:1rem 0 1.5rem;">
   <a class="nh-btn nh-btn-orange" href="https://www.linkedin.com/in/nina-huang" target="_blank">
-    💼 LinkedIn
+    💼 &nbsp; LinkedIn
   </a>
   <a class="nh-btn nh-btn-orange" href="https://scholar.google.com/citations?user=pTNPXbMAAAAJ&hl=en" target="_blank" rel="nofollow">
-    🎓 Google Scholar
+    🎓 &nbsp; Google Scholar
   </a>
   <a class="nh-btn nh-btn-green" href="mailto:nhuang@miami.edu" rel="nofollow">
-    ✉️ Contact
+    ✉️ &nbsp; Contact
   </a>
 </div>
 
