@@ -21,6 +21,10 @@ nav_order: 1
   --green-hi:  #00a060;
 }
 
+.nav-item.active > .nav-link {
+  color: #00a060 !important;
+}
+
 /* ── SECTION ── */
 .nh-section {
   border-top: 1px solid var(--line);
@@ -124,7 +128,7 @@ nav_order: 1
   font-size: 1.0rem; font-weight: 400; color: var(--text-hi);
   line-height: 1.5; text-decoration: none; transition: color 0.2s;
 }
-.pub-title:hover { color: #8cc4de; }
+.pub-title:hover { color: #00a060; }
 
 .pub-authors {
   font-size: 0.8rem; font-weight: 300; color: var(--text-mid); line-height: 1.5;
