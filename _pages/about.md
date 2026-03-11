@@ -130,8 +130,8 @@ social: false # includes social icons at the bottom of the page
   padding: 0.5rem 0 1rem;
 }
 .nh-connect-btn {
-  font-size: 16px; font-weight: 400; letter-spacing: 0.1em;
-  text-transform: uppercase; padding: 0.4rem 1rem;
+  font-size: 14px; font-weight: 400; letter-spacing: 0.1em;
+  text-transform: none !important; padding: 0.4rem 1rem;
   border: 1px solid var(--line); color: var(--text-hi);
   text-decoration: none;
   clip-path: polygon(6px 0%, 100% 0%, calc(100% - 6px) 100%, 0% 100%);
