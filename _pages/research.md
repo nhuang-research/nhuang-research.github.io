@@ -80,7 +80,7 @@ nav_order: 1
   background: rgba(244,115,33,0.08);
 }
 .filter-count {
-  font-size: 0.8rem; color: var(--text-lo);
+  font-size: 0.8rem; color: var(--text-hi);
   margin-left: auto; letter-spacing: 0.08em; font-weight: 300;
 }
 
@@ -150,10 +150,10 @@ nav_order: 1
 }
 .pub-badge {
   font-size: 0.8rem; font-weight: 500; letter-spacing: 0.1em;
-  color: var(--text-lo); white-space: nowrap;
+  color: var(--text-hi); white-space: nowrap;
   padding-top: 3px; transition: color 0.2s; text-align: right;
 }
-.pub-item:hover .pub-badge { color: var(--text-mid); }
+.pub-item:hover .pub-badge { color: var(--text-hi); }
 
 /* ── REVEAL ── */
 .nh-reveal { opacity: 0; transform: translateY(14px); transition: opacity 0.65s ease, transform 0.65s ease; }
