@@ -63,6 +63,9 @@ social: false # includes social icons at the bottom of the page
 header.sticky-top {
   border-bottom: 1px solid #00a060 !important;
 }
+nav.navbar, .navbar {
+  border-bottom: 1px solid #00a060 !important;
+  box-shadow: none !important;
 
 /* ── BOTTOM SECTIONS ── */
 .nh-about-bottom {
@@ -101,7 +104,7 @@ header.sticky-top {
 }
 .nh-desc {
   font-size: 16px; font-weight: 300;
-  color: var(--text); line-height: 1.8; padding-bottom: 0.4rem;
+  color: var(--text); line-height: 1.8; padding-bottom: 0.2rem;
 }
 .nh-desc a { color: var(--green); text-decoration: none; }
 .nh-desc a:hover { color: var(--orange); }
