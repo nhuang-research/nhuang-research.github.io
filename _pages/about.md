@@ -118,7 +118,7 @@ Nina has received many awards and recognitions, including <a href="https://pubso
   You can find Nina's <a href="https://scholar.google.com/citations?user=pTNPXbMAAAAJ&hl=en" rel="nofollow"> Google Scholar</a>. If you would like to collaborate with Dr. Nina Huang on research or invite her to speak at an event, please <a href="mailto: nhuang@miami.edu" rel="nofollow">contact her here</a>.
 </p> -->
 
-<h4>Connect & Collaborate</h4>
+<!-- <h4>Connect & Collaborate</h4>
 
 <style>
 .nh-btn {
@@ -154,7 +154,24 @@ Nina has received many awards and recognitions, including <a href="https://pubso
   transform: translateY(-1px);
   box-shadow: 0 4px 16px rgba(244,115,33,0.3);
 }
-</style>
+</style> -->
+
+<!-- CONNECT -->
+  <div class="nh-section nh-reveal">
+    <div class="nh-section-label">Connect</div>
+    <div>
+      <div class="nh-connect">
+        <a class="nh-btn" href="https://www.linkedin.com/in/nina-huang" target="_blank">💼 &nbsp;LinkedIn</a>
+        <a class="nh-btn" href="https://scholar.google.com/citations?user=pTNPXbMAAAAJ&hl=en" target="_blank">🎓 &nbsp;Google Scholar</a>
+        <a class="nh-btn" href="mailto:nhuang@miami.edu">✉️ &nbsp;Contact Me</a>
+      </div>
+      <div class="nh-logo-wrap">
+        <img src="/assets/img/UM-H-BUS-miami Herbert business school-RGB.png" alt="Miami Herbert Business School">
+      </div>
+    </div>
+  </div>
+
+</div>
 
 <div style="display:flex; gap:0.6rem; flex-wrap:wrap; margin:1rem 0 1.5rem;">
   <a class="nh-btn nh-btn-orange" href="https://www.linkedin.com/in/nina-huang" target="_blank">
