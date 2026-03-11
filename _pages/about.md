@@ -51,6 +51,11 @@ social: false # includes social icons at the bottom of the page
 }
 @keyframes nhSpin { to { transform: rotate(360deg); } }
 
+/* ── SUBTITLE LINK COLOR ── */
+.page-description a, .post-description a {
+  color: #F47321 !important;
+}
+
 /* ── BOTTOM SECTIONS ── */
 .nh-about-bottom {
   --line:     rgba(255,255,255,0.06);
@@ -88,7 +93,7 @@ social: false # includes social icons at the bottom of the page
 }
 .nh-desc {
   font-size: 16px; font-weight: 300;
-  color: var(--text); line-height: 1.8; padding-bottom: 1.25rem;
+  color: var(--text); line-height: 1.8; padding-bottom: 0.8rem;
 }
 .nh-desc a { color: var(--green); text-decoration: none; }
 .nh-desc a:hover { color: var(--orange); }
@@ -179,7 +184,7 @@ social: false # includes social icons at the bottom of the page
 })();
 </script>
 
-<p> <a href="https://people.miami.edu/profile/nxh558@miami.edu/"> Nina Huang </a> is the Dennis & Smith Family Endowed Chair Professor of Business Technology at the Miami Herbert Business School, University of Miami, Florida. </p>
+<p> <a href="https://people.miami.edu/profile/nxh558@miami.edu/" style="color:#00a060; font-weight:700;"> Nina Huang </a> is the Dennis & Smith Family Endowed Chair Professor of Business Technology at the Miami Herbert Business School, University of Miami, Florida. </p>
 
 <p> Dr. Huang's expertise centers on understanding how digital technology can enhance user experiences and improve business outcomes. Her research program covers a range of digital contexts, including live streaming, online dating, online learning, online healthcare, mobile applications, and digital commerce.</p> 
 
