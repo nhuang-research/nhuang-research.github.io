@@ -80,7 +80,7 @@ nav_order: 1
   background: rgba(244,115,33,0.08);
 }
 .filter-count {
-  font-size: 0.62rem; color: var(--text-lo);
+  font-size: 0.8rem; color: var(--text-lo);
   margin-left: auto; letter-spacing: 0.08em; font-weight: 300;
 }
 
@@ -142,7 +142,7 @@ nav_order: 1
   font-size: 0.8rem; font-weight: 300; color: var(--text-lo); letter-spacing: 0.05em;
 }
 .pub-note {
-  font-size: 0.8rem; font-weight: 500; letter-spacing: 0.1em;
+  font-size: 0.6rem; font-weight: 500; letter-spacing: 0.1em;
   text-transform: uppercase; color: var(--green-hi);
   border: 1px solid rgba(0,160,96,0.3);
   padding: 0.1rem 0.5rem;
