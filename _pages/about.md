@@ -51,7 +51,7 @@ social: false # includes social icons at the bottom of the page
 }
 @keyframes nhSpin { to { transform: rotate(360deg); } }
 
-* ── BOTTOM SECTIONS ── */
+/* ── BOTTOM SECTIONS ── */
 .nh-about-bottom {
   --line:     rgba(255,255,255,0.06);
   --line-hi:  rgba(255,255,255,0.12);
@@ -62,6 +62,7 @@ social: false # includes social icons at the bottom of the page
   --orange:   #F47321;
   --green:    #00a060;
   margin-top: 2rem;
+  /*font-size: 16px;*/
 }
 
 .nh-section {
