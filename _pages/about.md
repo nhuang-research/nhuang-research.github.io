@@ -112,13 +112,8 @@ Dr. Huang's research has been published in premier journals (listed in <a href="
 Nina has received many awards and recognitions, including <a href="https://pubsonline.informs.org/do/10.1287/orms.2024.01.25n"> a Senior Member of Institute for Operations Research and the Management Sciences (INFORMS)</a>, <a href="https://aisnet.org/page/DistinguishedMemberList"> a Distinguished Member of the Association for Information Systems (AIS)</a>, <a href="https://www.informs.org/Recognizing-Excellence/Community-Prizes/Information-Systems-Society/ISS-Sandra-A.-Slaughter-Early-Career-Award"> the INFORMS Sandra A. Slaughter Early Career Award</a>, <a href="https://ishistory.aisnet.org/awards/earlycareeraward/"> the AIS Early Career Award</a>, <a href="https://misq.umn.edu/awards-reviewer"> an Outstanding Reviewer of the Year at <em>MIS Quarterly</em></a>, and <a href="https://pubsonline.informs.org/page/isre/awards"> the Best Reviewer of the Year at <em>Information Systems Research</em></a>.
 </p>
 
-<!-- <h4>Connect & Collaborate</h4>
-<p>
-  You can connect with Nina on <a href="https://www.linkedin.com/in/nina-huang"> LinkedIn here</a>.
-  You can find Nina's <a href="https://scholar.google.com/citations?user=pTNPXbMAAAAJ&hl=en" rel="nofollow"> Google Scholar</a>. If you would like to collaborate with Dr. Nina Huang on research or invite her to speak at an event, please <a href="mailto: nhuang@miami.edu" rel="nofollow">contact her here</a>.
-</p> -->
 
-<!-- <h4>Connect & Collaborate</h4>
+<h4>Connect & Collaborate</h4>
 
 <style>
 .nh-btn {
@@ -154,36 +149,8 @@ Nina has received many awards and recognitions, including <a href="https://pubso
   transform: translateY(-1px);
   box-shadow: 0 4px 16px rgba(244,115,33,0.3);
 }
-</style> -->
+</style>
 
-<!-- CONNECT -->
-  <div class="nh-section nh-reveal">
-    <div class="nh-section-label">Connect</div>
-    <div>
-      <div class="nh-connect">
-        <a class="nh-btn" href="https://www.linkedin.com/in/nina-huang" target="_blank">💼 &nbsp;LinkedIn</a>
-        <a class="nh-btn" href="https://scholar.google.com/citations?user=pTNPXbMAAAAJ&hl=en" target="_blank">🎓 &nbsp;Google Scholar</a>
-        <a class="nh-btn" href="mailto:nhuang@miami.edu">✉️ &nbsp;Contact Me</a>
-      </div>
-      <div class="nh-logo-wrap">
-        <img src="/assets/img/UM-H-BUS-miami Herbert business school-RGB.png" alt="Miami Herbert Business School">
-      </div>
-    </div>
-  </div>
-
-</div>
-
-<div style="display:flex; gap:0.6rem; flex-wrap:wrap; margin:1rem 0 1.5rem;">
-  <a class="nh-btn nh-btn-orange" href="https://www.linkedin.com/in/nina-huang" target="_blank">
-    💼 &nbsp; LinkedIn
-  </a>
-  <a class="nh-btn nh-btn-orange" href="https://scholar.google.com/citations?user=pTNPXbMAAAAJ&hl=en" target="_blank" rel="nofollow">
-    🎓 &nbsp; Google Scholar
-  </a>
-  <a class="nh-btn nh-btn-green" href="mailto:nhuang@miami.edu" rel="nofollow">
-    ✉️ &nbsp; Contact Me
-  </a>
-</div>
 
 <!-- ADD LOGO HERE -->
 <div style="text-align:left; margin-top:30px; padding-left:5px;">
