@@ -62,12 +62,12 @@ social: false # includes social icons at the bottom of the page
   --orange:   #F47321;
   --green:    #00a060;
   margin-top: 2rem;
-  /*font-size: 16px;*/
+  font-size: 16px;
 }
 
 .nh-section {
   border-top: 1px solid var(--line);
-  padding-top: 3.5rem;
+  padding-top: 2rem;
   margin-bottom: 0;
   display: grid;
   grid-template-columns: 100px 1fr;
@@ -84,7 +84,7 @@ social: false # includes social icons at the bottom of the page
 /* ── JOURNAL GROUP ── */
 .nh-journal-group {
   display: flex; flex-direction: column;
-  padding: 0.5rem 0 2.5rem;
+  padding: 0.5rem 0 1rem;
 }
 .nh-desc {
   font-size: 0.8rem; font-weight: 300;
@@ -116,7 +116,7 @@ social: false # includes social icons at the bottom of the page
 
 /* ── AWARDS ── */
 .nh-awards {
-  padding: 0.5rem 0 2.5rem;
+  padding: 0.5rem 0 1rem;
   font-size: 0.8rem; font-weight: 300;
   color: var(--text); line-height: 1.8;
 }
@@ -127,7 +127,7 @@ social: false # includes social icons at the bottom of the page
 /* ── CONNECT — same as research page filter-btn ── */
 .nh-connect {
   display: flex; flex-wrap: wrap; gap: 0.5rem;
-  padding: 0.5rem 0 2rem;
+  padding: 0.5rem 0 1rem;
 }
 .nh-connect-btn {
   font-size: 0.8rem; font-weight: 400; letter-spacing: 0.1em;
