@@ -63,9 +63,6 @@ social: false # includes social icons at the bottom of the page
 header.sticky-top {
   border-bottom: 1px solid #00a060 !important;
 }
-nav.navbar, .navbar {
-  border-bottom: 1px solid #00a060 !important;
-  box-shadow: none !important;
 
 /* ── BOTTOM SECTIONS ── */
 .nh-about-bottom {
@@ -104,7 +101,7 @@ nav.navbar, .navbar {
 }
 .nh-desc {
   font-size: 16px; font-weight: 300;
-  color: var(--text); line-height: 1.8; padding-bottom: 0.2rem;
+  color: var(--text); line-height: 1.6; padding-bottom: 0.2rem;
 }
 .nh-desc a { color: var(--green); text-decoration: none; }
 .nh-desc a:hover { color: var(--orange); }
@@ -135,7 +132,7 @@ nav.navbar, .navbar {
 .nh-awards {
   padding: 0 0 1rem;
   font-size: 16px; font-weight: 300;
-  color: var(--text); line-height: 1.8;
+  color: var(--text); line-height: 1.6;
 }
 .nh-awards a { color: var(--green); text-decoration: none; }
 .nh-awards a:hover { color: var(--orange); }
@@ -286,7 +283,7 @@ reveals.forEach(function(r) { obs.observe(r); });
   <a href="https://www.herbert.miami.edu" target="_blank" rel="noopener">
     <img src="/assets/img/UM-H-BUS-miami Herbert business school-RGB.png" 
          alt="Miami Herbert Business School logo" 
-         width="150" 
+         width="160" 
          style="height:auto; opacity:0.9;">
   </a>
 </div>
