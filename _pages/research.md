@@ -80,7 +80,7 @@ nav_order: 1
   background: rgba(244,115,33,0.08);
 }
 .filter-count {
-  font-size: 0.8rem; color: var(--text-hi);
+  font-size: 0.8rem; color: var(--green-hi);
   margin-left: auto; letter-spacing: 0.08em; font-weight: 300;
 }
 
@@ -153,7 +153,7 @@ nav_order: 1
   color: var(--text-hi); white-space: nowrap;
   padding-top: 3px; transition: color 0.2s; text-align: right;
 }
-.pub-item:hover .pub-badge { color: var(--text-hi); }
+.pub-item:hover .pub-badge { color: var(--orange); }
 
 /* ── REVEAL ── */
 .nh-reveal { opacity: 0; transform: translateY(14px); transition: opacity 0.65s ease, transform 0.65s ease; }
@@ -198,7 +198,7 @@ nav_order: 1
         <button class="filter-btn" data-filter="MS">MS</button>
         <button class="filter-btn" data-filter="POM">POM</button>
         <button class="filter-btn" data-filter="other">Other</button>
-        <span class="filter-count" id="filterCount">25 papers</span>
+        <span class="filter-count" id="filterCount">25 publications</span>
       </div>
 
       <div class="pub-list" id="pubList">
@@ -616,7 +616,7 @@ filterBtns.forEach(function(btn) {
       item.classList.toggle('hidden', !show);
       if (show) { item.classList.remove('nh-visible'); count++; }
     });
-    filterCount.textContent = count + ' paper' + (count !== 1 ? 's' : '');
+    filterCount.textContent = count + ' publication' + (count !== 1 ? 's' : '');
     setTimeout(function() {
       Array.from(items).filter(function(i) { return !i.classList.contains('hidden'); })
         .forEach(function(item, i) {
