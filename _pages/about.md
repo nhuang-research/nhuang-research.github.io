@@ -130,7 +130,7 @@ header.sticky-top {
 
 /* ── AWARDS ── */
 .nh-awards {
-  padding: 0 0 1rem;
+  padding: 0 0 2rem;
   font-size: 16px; font-weight: 300;
   color: var(--text); line-height: 1.6;
 }

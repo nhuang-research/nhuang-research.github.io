@@ -47,7 +47,7 @@ nav_order: 1
   display: grid;
   grid-template-columns: repeat(3, max-content);
   gap: 0.5rem;
-  padding: 1rem 0 1.5rem;
+  padding: 0 0 1.5rem;
 }
 .area-tag {
   font-size: 0.85rem; font-weight: 300; letter-spacing: 0.06em;
