@@ -24,7 +24,7 @@ nav_order: 1
 /* ── SECTION ── */
 .nh-section {
   border-top: 1px solid var(--line);
-  padding-top: 2.5rem;
+  padding-top: 2rem;
   margin-bottom: 0;
   display: grid;
   grid-template-columns: 100px 1fr;
