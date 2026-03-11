@@ -24,13 +24,13 @@ nav_order: 1
 /* ── SECTION ── */
 .nh-section {
   border-top: 1px solid var(--line);
-  padding-top: 3.5rem;
+  padding-top: 2.5rem;
   margin-bottom: 0;
   display: grid;
   grid-template-columns: 100px 1fr;
   gap: 4rem;
 }
-.nh-section:first-of-type { border-top: none; padding-top: 1rem;}
+.nh-section:first-of-type { border-top: none; padding-top: 0rem;}
 .nh-section-label {
   font-size: 0.85rem; font-weight: 500;
   letter-spacing: 0.18em; text-transform: uppercase;
