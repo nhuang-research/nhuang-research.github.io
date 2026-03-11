@@ -248,11 +248,6 @@ social: false # includes social icons at the bottom of the page
         <a class="nh-connect-btn" href="https://scholar.google.com/citations?user=pTNPXbMAAAAJ&hl=en" target="_blank">🎓 &nbsp;Google Scholar</a>
         <a class="nh-connect-btn" href="mailto:nhuang@miami.edu">✉️ &nbsp;Contact Me</a>
       </div>
-      <div class="nh-logo-wrap">
-        <a href="https://www.herbert.miami.edu" target="_blank" rel="noopener">
-          <img src="/assets/img/UM-H-BUS-miami Herbert business school-RGB.png" alt="Miami Herbert Business School logo">
-        </a>
-      </div>
     </div>
   </div>
 
