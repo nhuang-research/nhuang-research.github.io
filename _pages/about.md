@@ -100,7 +100,8 @@ social: false # includes social icons at the bottom of the page
   padding: 0.85rem 0;
   border-bottom: 1px solid var(--line);
 }
-.nh-journal-category:first-of-type { border-top: 1px solid var(--line); }
+.nh-journal-category:first-of-type { border-top: none; }
+.nh-journal-category:last-of-type { border-bottom: none;}
 
 .nh-cat-label {
   font-size: 16px; font-weight: 300;
@@ -127,7 +128,7 @@ social: false # includes social icons at the bottom of the page
 /* ── CONNECT — same as research page filter-btn ── */
 .nh-connect {
   display: flex; flex-wrap: wrap; gap: 0.5rem;
-  padding: 0.5rem 0 1rem;
+  padding: 0 0 1rem;
 }
 .nh-connect-btn {
   font-size: 14px; font-weight: 400; letter-spacing: 0.1em;
