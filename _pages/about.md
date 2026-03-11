@@ -76,7 +76,7 @@ social: false # includes social icons at the bottom of the page
 .nh-section-label {
   font-size: 0.85rem; font-weight: 500;
   letter-spacing: 0.18em; text-transform: uppercase;
-  color: var(--text-lo); padding-top: 0.2rem;
+  color: #3a3a3a; padding-top: 0.2rem;
   position: sticky; top: 72px; height: fit-content;
 }
 
