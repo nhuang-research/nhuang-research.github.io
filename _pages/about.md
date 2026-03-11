@@ -56,6 +56,14 @@ social: false # includes social icons at the bottom of the page
   color: #F47321 !important;
 }
 
+/* ── NAV ACTIVE + UNDERLINE ── */
+.nav-item.active > .nav-link {
+  color: #00a060 !important;
+}
+header.sticky-top {
+  border-bottom: 1px solid #00a060 !important;
+}
+
 /* ── BOTTOM SECTIONS ── */
 .nh-about-bottom {
   --line:     rgba(255,255,255,0.06);
@@ -118,7 +126,7 @@ social: false # includes social icons at the bottom of the page
   font-size: 16px; font-weight: 300; font-style: italic;
   color: var(--text-hi); text-decoration: none; transition: color 0.2s;
 }
-.nh-journal-entry:hover { color: var(--green); }
+.nh-journal-entry:hover { color: var(--orange); }
 
 /* ── AWARDS ── */
 .nh-awards {
