@@ -50,6 +50,112 @@ social: false # includes social icons at the bottom of the page
   display: block;
 }
 @keyframes nhSpin { to { transform: rotate(360deg); } }
+
+* ── BOTTOM SECTIONS ── */
+.nh-about-bottom {
+  --line:     rgba(255,255,255,0.06);
+  --line-hi:  rgba(255,255,255,0.12);
+  --text:     #aaaaaa;
+  --text-hi:  #f0f0f0;
+  --text-lo:  #3a3a3a;
+  --text-mid: #666;
+  --orange:   #F47321;
+  --green:    #00a060;
+  margin-top: 2rem;
+}
+
+.nh-section {
+  border-top: 1px solid var(--line);
+  padding-top: 3.5rem;
+  margin-bottom: 0;
+  display: grid;
+  grid-template-columns: 100px 1fr;
+  gap: 4rem;
+}
+
+.nh-section-label {
+  font-size: 0.85rem; font-weight: 500;
+  letter-spacing: 0.18em; text-transform: uppercase;
+  color: var(--text-lo); padding-top: 0.2rem;
+  position: sticky; top: 72px; height: fit-content;
+}
+
+/* ── JOURNAL GROUP ── */
+.nh-journal-group {
+  display: flex; flex-direction: column;
+  padding: 0.5rem 0 2.5rem;
+}
+.nh-desc {
+  font-size: 0.8rem; font-weight: 300;
+  color: var(--text); line-height: 1.8; padding-bottom: 1.25rem;
+}
+.nh-desc a { color: var(--green); text-decoration: none; }
+.nh-desc a:hover { color: var(--orange); }
+
+.nh-journal-category {
+  display: grid;
+  grid-template-columns: 160px 1fr;
+  gap: 1.5rem; align-items: start;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid var(--line);
+}
+.nh-journal-category:first-of-type { border-top: 1px solid var(--line); }
+
+.nh-cat-label {
+  font-size: 0.8rem; font-weight: 300;
+  letter-spacing: 0.05em; color: var(--text-lo);
+  padding-top: 0.15rem;
+}
+.nh-journals { display: flex; flex-direction: column; gap: 0.3rem; }
+.nh-journal-entry {
+  font-size: 0.8rem; font-weight: 300; font-style: italic;
+  color: var(--text-mid); text-decoration: none; transition: color 0.2s;
+}
+.nh-journal-entry:hover { color: var(--green); }
+
+/* ── AWARDS ── */
+.nh-awards {
+  padding: 0.5rem 0 2.5rem;
+  font-size: 0.8rem; font-weight: 300;
+  color: var(--text); line-height: 1.8;
+}
+.nh-awards a { color: var(--green); text-decoration: none; }
+.nh-awards a:hover { color: var(--orange); }
+.nh-awards em { font-style: italic; }
+
+/* ── CONNECT — same as research page filter-btn ── */
+.nh-connect {
+  display: flex; flex-wrap: wrap; gap: 0.5rem;
+  padding: 0.5rem 0 2rem;
+}
+.nh-connect-btn {
+  font-size: 0.8rem; font-weight: 400; letter-spacing: 0.1em;
+  text-transform: uppercase; padding: 0.4rem 1rem;
+  border: 1px solid var(--line); color: var(--text-lo);
+  background: transparent; text-decoration: none;
+  clip-path: polygon(6px 0%, 100% 0%, calc(100% - 6px) 100%, 0% 100%);
+  transition: all 0.2s ease; font-family: inherit;
+}
+.nh-connect-btn:hover {
+  border-color: var(--orange); color: var(--orange);
+  background: rgba(244,115,33,0.08);
+}
+
+/* ── LOGO ── */
+.nh-logo-wrap { padding: 0 0 1rem; }
+.nh-logo-wrap img { height: 48px; opacity: 0.7; transition: opacity 0.2s; }
+.nh-logo-wrap img:hover { opacity: 1; }
+
+/* ── REVEAL ── */
+.nh-reveal { opacity: 0; transform: translateY(14px); transition: opacity 0.65s ease, transform 0.65s ease; }
+.nh-reveal.nh-visible { opacity: 1; transform: none; }
+
+/* ── RESPONSIVE ── */
+@media (max-width: 760px) {
+  .nh-section { grid-template-columns: 1fr; gap: 1rem; padding-top: 2rem; }
+  .nh-section-label { position: static; padding-bottom: 0.25rem; }
+  .nh-journal-category { grid-template-columns: 1fr; gap: 0.5rem; }
+}
 </style>
 
 
@@ -77,80 +183,90 @@ social: false # includes social icons at the bottom of the page
 
 <p> Nina currently serves as a Senior Editor at <em>Production and Operations Management</em> and an Associate Editor at <em>Information Systems Research</em>. She previously served as the Vice President of INFORMS Information Systems Society from 2023 to 2025 and an Associate Editor at <em>MIS Quarterly</em> from 2021 to 2024.</p>
 
-<h4>Research Contributions</h4>
-Dr. Huang's research has been published in premier journals (listed in <a href="https://www.ft.com/content/3405a512-5cbb-11e1-8f1f-00144feabdc0"> Financial Times Top 50 Journals</a> and <a href="https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings"> UTD24 Journals</a>) across multiple disciplines:
-<ul>
-  <li>Interdisciplinary
-    <ul style="list-style-type: none;">
-          <li><a href="https://pubsonline.informs.org/journal/mnsc"> <em>Management Science (MS)</em></a></li>
-    </ul>
-  </li>
-  
-  <li>Information Systems
-    <ul style="list-style-type: none;">
-      <li><a href="https://pubsonline.informs.org/journal/isre"> <em>Information Systems Research (ISR)</em></a></li>
-      <li><a href="https://misq.umn.edu"> <em>MIS Quarterly (MISQ)</em></a></li>
-      <li><a href="https://www.jmis-web.org"> <em>Journal of Management Information Systems (JMIS)</em></a></li>
-      <li><a href="https://aisel.aisnet.org/jais/"> <em>Journal of the Association for Information Systems (JAIS)</em></a></li>             
-    </ul>
-  </li>
- 
-  <li>Operations Management
-    <ul style="list-style-type: none;">
-      <li><a href="https://www.poms.org/journal"> <em>Production and Operations Management (POM)</em></a></li>
-    </ul>
-  </li>
+<!-- ── STYLED BOTTOM SECTIONS ── -->
+<div class="nh-about-bottom">
 
-  <li>Marketing
-    <ul style="list-style-type: none;">
-      <li><a href="https://myscp.onlinelibrary.wiley.com/journal/15327663"> <em>Journal of Consumer Psychology (JCP)</em></a></li>
-    </ul>
-  </li>
-</ul>
+  <!-- RESEARCH OUTPUT -->
+  <div class="nh-section nh-reveal">
+    <div class="nh-section-label">Research<br>Output</div>
+    <div class="nh-journal-group">
+      <p class="nh-desc">Dr. Huang's research has been published in premier journals (listed in
+        <a href="https://www.ft.com/content/3405a512-5cbb-11e1-8f1f-00144feabdc0" target="_blank">Financial Times Top 50 Journals</a> and
+        <a href="https://jsom.utdallas.edu/the-utd-top-100-business-school-research-rankings" target="_blank">UTD24 Journals</a>)
+        across multiple disciplines:
+      </p>
+      <div class="nh-journal-category">
+        <span class="nh-cat-label">Interdisciplinary</span>
+        <div class="nh-journals">
+          <a class="nh-journal-entry" href="https://pubsonline.informs.org/journal/mnsc" target="_blank">Management Science (MS)</a>
+        </div>
+      </div>
+      <div class="nh-journal-category">
+        <span class="nh-cat-label">Information Systems</span>
+        <div class="nh-journals">
+          <a class="nh-journal-entry" href="https://pubsonline.informs.org/journal/isre" target="_blank">Information Systems Research (ISR)</a>
+          <a class="nh-journal-entry" href="https://misq.umn.edu" target="_blank">MIS Quarterly (MISQ)</a>
+          <a class="nh-journal-entry" href="https://www.jmis-web.org" target="_blank">Journal of Management Information Systems (JMIS)</a>
+          <a class="nh-journal-entry" href="https://aisel.aisnet.org/jais/" target="_blank">Journal of the Association for Information Systems (JAIS)</a>
+        </div>
+      </div>
+      <div class="nh-journal-category">
+        <span class="nh-cat-label">Operations Management</span>
+        <div class="nh-journals">
+          <a class="nh-journal-entry" href="https://www.poms.org/journal" target="_blank">Production and Operations Management (POM)</a>
+        </div>
+      </div>
+      <div class="nh-journal-category">
+        <span class="nh-cat-label">Marketing</span>
+        <div class="nh-journals">
+          <a class="nh-journal-entry" href="https://myscp.onlinelibrary.wiley.com/journal/15327663" target="_blank">Journal of Consumer Psychology (JCP)</a>
+        </div>
+      </div>
+    </div>
+  </div>
 
-<p>
-Nina has received many awards and recognitions, including <a href="https://pubsonline.informs.org/do/10.1287/orms.2024.01.25n"> a Senior Member of Institute for Operations Research and the Management Sciences (INFORMS)</a>, <a href="https://aisnet.org/page/DistinguishedMemberList"> a Distinguished Member of the Association for Information Systems (AIS)</a>, <a href="https://www.informs.org/Recognizing-Excellence/Community-Prizes/Information-Systems-Society/ISS-Sandra-A.-Slaughter-Early-Career-Award"> the INFORMS Sandra A. Slaughter Early Career Award</a>, <a href="https://ishistory.aisnet.org/awards/earlycareeraward/"> the AIS Early Career Award</a>, <a href="https://misq.umn.edu/awards-reviewer"> an Outstanding Reviewer of the Year at <em>MIS Quarterly</em></a>, and <a href="https://pubsonline.informs.org/page/isre/awards"> the Best Reviewer of the Year at <em>Information Systems Research</em></a>.
-</p>
+  <!-- AWARDS -->
+  <div class="nh-section nh-reveal">
+    <div class="nh-section-label">Awards &amp;<br>Recognition</div>
+    <div class="nh-awards">
+      Nina has received many awards and recognitions, including
+      <a href="https://pubsonline.informs.org/do/10.1287/orms.2024.01.25n" target="_blank">a Senior Member of Institute for Operations Research and the Management Sciences (INFORMS)</a>,
+      <a href="https://aisnet.org/page/DistinguishedMemberList" target="_blank">a Distinguished Member of the Association for Information Systems (AIS)</a>,
+      <a href="https://www.informs.org/Recognizing-Excellence/Community-Prizes/Information-Systems-Society/ISS-Sandra-A.-Slaughter-Early-Career-Award" target="_blank">the INFORMS Sandra A. Slaughter Early Career Award</a>,
+      <a href="https://ishistory.aisnet.org/awards/earlycareeraward/" target="_blank">the AIS Early Career Award</a>,
+      <a href="https://misq.umn.edu/awards-reviewer" target="_blank">an Outstanding Reviewer of the Year at <em>MIS Quarterly</em></a>, and
+      <a href="https://pubsonline.informs.org/page/isre/awards" target="_blank">the Best Reviewer of the Year at <em>Information Systems Research</em></a>.
+    </div>
+  </div>
 
+  <!-- CONNECT -->
+  <div class="nh-section nh-reveal">
+    <div class="nh-section-label">Connect</div>
+    <div>
+      <div class="nh-connect">
+        <a class="nh-connect-btn" href="https://www.linkedin.com/in/nina-huang" target="_blank">💼 &nbsp;LinkedIn</a>
+        <a class="nh-connect-btn" href="https://scholar.google.com/citations?user=pTNPXbMAAAAJ&hl=en" target="_blank">🎓 &nbsp;Google Scholar</a>
+        <a class="nh-connect-btn" href="mailto:nhuang@miami.edu">✉️ &nbsp;Contact Me</a>
+      </div>
+      <div class="nh-logo-wrap">
+        <a href="https://www.herbert.miami.edu" target="_blank" rel="noopener">
+          <img src="/assets/img/UM-H-BUS-miami Herbert business school-RGB.png" alt="Miami Herbert Business School logo">
+        </a>
+      </div>
+    </div>
+  </div>
 
-<h4>Connect & Collaborate</h4>
+</div>
 
-<style>
-.nh-btn {
-  display: inline-flex; align-items: center; gap: 7px;
-  padding: 0.55rem 1.2rem;
-  border-radius: 100px;
-  font-size: 0.8rem; font-weight: 500;
-  text-decoration: none;
-  transition: all 0.2s ease;
-  margin-bottom: 0.5rem;
-}
-.nh-btn-green {
-  background: rgba(0,80,48,0.15);
-  color: #4caf82;
-  border: 1px solid rgba(0,80,48,0.4);
-}
-.nh-btn-green:hover {
-  background: #005030;
-  color: #fff;
-  border-color: #005030;
-  transform: translateY(-1px);
-  box-shadow: 0 4px 16px rgba(0,80,48,0.3);
-}
-.nh-btn-orange {
-  background: rgba(244,115,33,0.1);
-  color: #F47321;
-  border: 1px solid rgba(244,115,33,0.35);
-}
-.nh-btn-orange:hover {
-  background: #F47321;
-  color: #fff;
-  border-color: #F47321;
-  transform: translateY(-1px);
-  box-shadow: 0 4px 16px rgba(244,115,33,0.3);
-}
-</style>
-
+<script>
+var reveals = document.querySelectorAll('.nh-reveal');
+var obs = new IntersectionObserver(function(e) {
+  e.forEach(function(x) {
+    if (x.isIntersecting) { x.target.classList.add('nh-visible'); obs.unobserve(x.target); }
+  });
+}, { threshold: 0.05 });
+reveals.forEach(function(r) { obs.observe(r); });
+</script>
 
 <!-- ADD LOGO HERE -->
 <div style="text-align:left; margin-top:30px; padding-left:5px;">
