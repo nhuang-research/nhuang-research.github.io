@@ -47,7 +47,7 @@ nav_order: 1
   display: grid;
   grid-template-columns: repeat(3, max-content);
   gap: 0.5rem;
-  padding: 0 0 1.5rem;
+  padding: 0 0 2rem;
 }
 .area-tag {
   font-size: 0.85rem; font-weight: 300; letter-spacing: 0.06em;
@@ -68,7 +68,7 @@ nav_order: 1
 /* ── FILTER BAR ── */
 .filter-bar {
   display: flex; align-items: center; gap: 0.5rem;
-  flex-wrap: wrap; padding: 3rem 0 2rem;
+  flex-wrap: wrap; padding: 0 0 2rem;
 }
 .filter-btn {
   font-size: 0.8rem; font-weight: 400; letter-spacing: 0.1em;
