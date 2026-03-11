@@ -87,7 +87,7 @@ social: false # includes social icons at the bottom of the page
   padding: 0.5rem 0 1rem;
 }
 .nh-desc {
-  font-size: 14px; font-weight: 300;
+  font-size: 16px; font-weight: 300;
   color: var(--text); line-height: 1.8; padding-bottom: 1.25rem;
 }
 .nh-desc a { color: var(--green); text-decoration: none; }
@@ -103,21 +103,21 @@ social: false # includes social icons at the bottom of the page
 .nh-journal-category:first-of-type { border-top: 1px solid var(--line); }
 
 .nh-cat-label {
-  font-size: 14px; font-weight: 300;
+  font-size: 16px; font-weight: 300;
   letter-spacing: 0.05em; color: var(--text-lo);
   padding-top: 0.15rem;
 }
 .nh-journals { display: flex; flex-direction: column; gap: 0.3rem; }
 .nh-journal-entry {
-  font-size: 14px; font-weight: 300; font-style: italic;
-  color: var(--text-mid); text-decoration: none; transition: color 0.2s;
+  font-size: 16px; font-weight: 300; font-style: italic;
+  color: var(--text-hi); text-decoration: none; transition: color 0.2s;
 }
 .nh-journal-entry:hover { color: var(--green); }
 
 /* ── AWARDS ── */
 .nh-awards {
   padding: 0.5rem 0 1rem;
-  font-size: 14px; font-weight: 300;
+  font-size: 16px; font-weight: 300;
   color: var(--text); line-height: 1.8;
 }
 .nh-awards a { color: var(--green); text-decoration: none; }
@@ -130,10 +130,10 @@ social: false # includes social icons at the bottom of the page
   padding: 0.5rem 0 1rem;
 }
 .nh-connect-btn {
-  font-size: 14px; font-weight: 400; letter-spacing: 0.1em;
+  font-size: 16px; font-weight: 400; letter-spacing: 0.1em;
   text-transform: uppercase; padding: 0.4rem 1rem;
-  border: 1px solid var(--line); color: var(--text-lo);
-  background: transparent; text-decoration: none;
+  border: 1px solid var(--line); color: var(--text-hi);
+  text-decoration: none;
   clip-path: polygon(6px 0%, 100% 0%, calc(100% - 6px) 100%, 0% 100%);
   transition: all 0.2s ease; font-family: inherit;
 }
