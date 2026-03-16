@@ -659,7 +659,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const buttons = Array.from(filterBar.querySelectorAll(".filter-btn"));
 
     const applyFilter = (activeButton) => {
-      const filter = activeButton?.dataset.filter || "journal";
+      const filter = activeButton && activeButton.dataset ? activeButton.dataset.filter : "journal";
 
       buttons.forEach((btn) => {
         btn.classList.toggle("active", btn === activeButton);
