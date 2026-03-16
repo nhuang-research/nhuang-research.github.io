@@ -143,7 +143,7 @@ nav_order: 4
 }
 
 .service-role {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   font-weight: 300;
   color: var(--text-mid);
   line-height: 1.5;
