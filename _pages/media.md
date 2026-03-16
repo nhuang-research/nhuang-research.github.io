@@ -58,7 +58,7 @@ nav_order: 4
   display: grid;
   grid-template-columns: 44px 1fr auto;
   gap: 1.5rem;
-  padding: 1.5rem 0;
+  padding: 1.5rem 0 1.5rem 12px;
   border-bottom: 1px solid var(--line);
   align-items: start;
   position: relative;
@@ -85,7 +85,7 @@ nav_order: 4
 }
 
 .service-item:hover {
-  padding-left: 12px;
+  padding-left: 16px;
 }
 
 .service-item:hover::before {
@@ -98,11 +98,12 @@ nav_order: 4
 }
 
 .service-num {
-  font-size: 0.8rem;
-  font-weight: 500;
-  letter-spacing: 0.06em;
+  font-size: 1rem;
+  font-weight: 400;
   color: var(--text-lo);
-  padding-top: 4px;
+  line-height: 1;
+  padding-top: 6px;
+  padding-left: 6px;
   transition: color 0.2s;
 }
 

@@ -68,7 +68,7 @@ nav_order: 1
 /* ── FILTER BAR ── */
 .filter-bar {
   display: flex; align-items: center; gap: 0.5rem;
-  flex-wrap: wrap; padding: 2rem 0 2rem;
+  flex-wrap: wrap; padding: 0 0 2rem;
 }
 .filter-btn {
   font-size: 0.8rem; font-weight: 400; letter-spacing: 0.1em;
@@ -95,7 +95,7 @@ nav_order: 1
   display: grid;
   grid-template-columns: 44px 1fr auto;
   gap: 1.5rem;
-  padding: 1.5rem 0;
+  padding: 1.5rem 0 1.5rem 12px;
   border-bottom: 1px solid var(--line);
   align-items: start;
   transition: padding-left 0.25s ease;
@@ -111,7 +111,7 @@ nav_order: 1
   transform: scaleY(0); transform-origin: top;
   transition: transform 0.3s ease;
 }
-.pub-item:hover { padding-left: 12px; }
+.pub-item:hover { padding-left: 16px; }
 .pub-item:hover::before { transform: scaleY(1); }
 .pub-item.nh-visible { opacity: 1; transform: translateY(0); }
 .pub-item.hidden { display: none; }
@@ -122,7 +122,7 @@ nav_order: 1
 }
 .pub-item:hover .pub-num { color: #F47321; }
 
-.pub-body { display: flex; flex-direction: column; gap: 0.35rem; }
+.pub-body { display: flex; flex-direction: column; gap: 0.28rem; }
 
 .pub-title {
   font-size: 1.0rem; font-weight: 400; color: var(--text-hi);
@@ -131,19 +131,19 @@ nav_order: 1
 .pub-title:hover { color: #00a060; }
 
 .pub-authors {
-  font-size: 0.8rem; font-weight: 300; color: var(--text-mid); line-height: 1.5;
+  font-size: 0.9rem; font-weight: 300; color: var(--text-mid); line-height: 1.5;
 }
 .pub-authors strong { color: var(--text); font-weight: 400; }
 
 .pub-meta {
   display: flex; align-items: center; gap: 0.75rem;
-  flex-wrap: wrap; margin-top: 0.15rem;
+  flex-wrap: wrap; margin-top: 0.05rem;
 }
 .pub-journal {
-  font-size: 0.8rem; font-weight: 300; font-style: italic; color: var(--text-mid);
+  font-size: 0.9rem; font-weight: 300; font-style: italic; color: var(--text-mid);
 }
 .pub-year {
-  font-size: 0.8rem; font-weight: 300; color: var(--text-lo); letter-spacing: 0.05em;
+  font-size: 0.9rem; font-weight: 300; color: var(--text-lo); letter-spacing: 0.05em;
 }
 .pub-note {
   font-size: 0.6rem; font-weight: 500; letter-spacing: 0.1em;
@@ -210,7 +210,7 @@ nav_order: 1
         <div class="pub-item" data-journal="ISR">
           <span class="pub-num">01</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://pubsonline.informs.org/doi/10.1287/isre.2024.1551" target="_blank">Workflow Automation in Open-Source Software Development: Accelerating Innovation through Mechanization and Orchestration</a>
+            <a class="pub-title" href="https://pubsonline.informs.org/doi/10.1287/isre.2024.1551" target="_blank">Workflow Automation in Open-Source Software Development:<br>Accelerating Innovation through Mechanization and Orchestration</a>
             <div class="pub-authors">Huang A, <strong>Huang N</strong>, Hong Y</div>
             <div class="pub-meta">
               <span class="pub-journal">Information Systems Research</span>
@@ -238,7 +238,7 @@ nav_order: 1
         <div class="pub-item" data-journal="MS">
           <span class="pub-num">03</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://pubsonline.informs.org/doi/10.1287/mnsc.2021.03495" target="_blank">Evaluating the Efficacy of Application Costs for Managing Congestion in Online Matching Market</a>
+            <a class="pub-title" href="https://pubsonline.informs.org/doi/10.1287/mnsc.2021.03495" target="_blank">Evaluating the Efficacy of Application Costs for Managing Congestion<br>in Online Matching Market</a>
             <div class="pub-authors"><strong>Huang N</strong>, Burtch G, Chen P, Huang A</div>
             <div class="pub-meta">
               <span class="pub-journal">Management Science</span>
@@ -266,7 +266,7 @@ nav_order: 1
         <div class="pub-item" data-journal="MISQ">
           <span class="pub-num">05</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://misq.umn.edu/misq/article-abstract/49/4/1567/3274/Real-Time-Sales-Data-Streamer-Improvisation-and" target="_blank">Real-Time Sales Data, Streamer Improvisation, and Sales Performance: Evidence From Live Stream Selling</a>
+            <a class="pub-title" href="https://misq.umn.edu/misq/article-abstract/49/4/1567/3274/Real-Time-Sales-Data-Streamer-Improvisation-and" target="_blank">Real-Time Sales Data, Streamer Improvisation, and Sales Performance:<br>Evidence From Live Stream Selling</a>
             <div class="pub-authors">He Y, <strong>Huang N</strong>, Wang L, Sun Y</div>
             <div class="pub-meta">
               <span class="pub-journal">MIS Quarterly</span>
@@ -280,7 +280,7 @@ nav_order: 1
         <div class="pub-item" data-journal="ISR">
           <span class="pub-num">06</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://pubsonline.informs.org/doi/10.1287/isre.2023.0103" target="_blank">Artificial Intelligence (AI) Assistant in Online Shopping: A Randomized Field Experiment on a Livestream Selling Platform</a>
+            <a class="pub-title" href="https://pubsonline.informs.org/doi/10.1287/isre.2023.0103" target="_blank">Artificial Intelligence (AI) Assistant in Online Shopping:<br>A Randomized Field Experiment on a Livestream Selling Platform</a>
             <div class="pub-authors">Wang L, <strong>Huang N</strong>, He Y, Liu D, Guo X, Sun Y, Chen G</div>
             <div class="pub-meta">
               <span class="pub-journal">Information Systems Research</span>
@@ -294,7 +294,7 @@ nav_order: 1
         <div class="pub-item" data-journal="other">
           <span class="pub-num">07</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://dl.acm.org/doi/10.1145/3736418" target="_blank">Mining Linguistic Styles in Bilateral Matching: A Contrastive Learning Approach to Reciprocal Recommendation</a>
+            <a class="pub-title" href="https://dl.acm.org/doi/10.1145/3736418" target="_blank">Mining Linguistic Styles in Bilateral Matching:<br>A Contrastive Learning Approach to Reciprocal Recommendation</a>
             <div class="pub-authors">Guan Y, He Y, <strong>Huang N</strong>, Guo X, Chen G</div>
             <div class="pub-meta">
               <span class="pub-journal">ACM Transactions on Knowledge Discovery from Data</span>
@@ -308,7 +308,7 @@ nav_order: 1
         <div class="pub-item" data-journal="ISR">
           <span class="pub-num">08</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://pubsonline.informs.org/doi/10.1287/isre.2021.0379" target="_blank">Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from the Online Dating Context</a>
+            <a class="pub-title" href="https://pubsonline.informs.org/doi/10.1287/isre.2021.0379" target="_blank">Enhancing User Privacy Through Ephemeral Sharing Design:<br>Experimental Evidence from the Online Dating Context</a>
             <div class="pub-authors">He Y, Xu X, <strong>Huang N</strong>, Hong Y, Liu D</div>
             <div class="pub-meta">
               <span class="pub-journal">Information Systems Research</span>
@@ -322,7 +322,7 @@ nav_order: 1
         <div class="pub-item" data-journal="other">
           <span class="pub-num">09</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://www.tandfonline.com/doi/full/10.1080/07421222.2024.2415767" target="_blank">How to Translate Firm-Generated Content to Sales? Evidence from Online Healthcare Platforms</a>
+            <a class="pub-title" href="https://www.tandfonline.com/doi/full/10.1080/07421222.2024.2415767" target="_blank">How to Translate Firm-Generated Content to Sales?<br>Evidence from Online Healthcare Platforms</a>
             <div class="pub-authors">Qiao W, <strong>Huang N</strong>, Yan Z</div>
             <div class="pub-meta">
               <span class="pub-journal">Journal of Management Information Systems</span>
@@ -336,7 +336,7 @@ nav_order: 1
         <div class="pub-item" data-journal="ISR">
           <span class="pub-num">10</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://pubsonline.informs.org/doi/full/10.1287/isre.2023.1234" target="_blank">When the Clock Strikes: A Multimethod Investigation of On-the-Hour Effects in Online Learning</a>
+            <a class="pub-title" href="https://pubsonline.informs.org/doi/full/10.1287/isre.2023.1234" target="_blank">When the Clock Strikes:<br>A Multimethod Investigation of On-the-Hour Effects in Online Learning</a>
             <div class="pub-authors"><strong>Huang N</strong>, Wang L, Hong Y, Lin L, Guo X, Chen G</div>
             <div class="pub-meta">
               <span class="pub-journal">Information Systems Research</span>
@@ -350,7 +350,7 @@ nav_order: 1
         <div class="pub-item" data-journal="POM">
           <span class="pub-num">11</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://onlinelibrary.wiley.com/doi/10.1111/poms.13953" target="_blank">Voice-based AI in Call Center Customer Service: A Natural Field Experiment</a>
+            <a class="pub-title" href="https://onlinelibrary.wiley.com/doi/10.1111/poms.13953" target="_blank">Voice-based AI in Call Center Customer Service:<br>A Natural Field Experiment</a>
             <div class="pub-authors">Wang L, <strong>Huang N</strong>, Hong Y, Liu L, Guo X, Chen G</div>
             <div class="pub-meta">
               <span class="pub-journal">Production and Operations Management</span>
@@ -392,7 +392,7 @@ nav_order: 1
         <div class="pub-item" data-journal="POM">
           <span class="pub-num">14</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13381" target="_blank">Effects of Online-Offline Service Integration on e-Healthcare Providers: A Quasi-Natural Experiment</a>
+            <a class="pub-title" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13381" target="_blank">Effects of Online-Offline Service Integration on e-Healthcare Providers:<br>A Quasi-Natural Experiment</a>
             <div class="pub-authors"><strong>Huang N</strong>, Yan Z, Yin H</div>
             <div class="pub-meta">
               <span class="pub-journal">Production and Operations Management</span>
@@ -406,7 +406,7 @@ nav_order: 1
         <div class="pub-item" data-journal="ISR">
           <span class="pub-num">15</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://pubsonline.informs.org/doi/10.1287/isre.2021.1003" target="_blank">Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets</a>
+            <a class="pub-title" href="https://pubsonline.informs.org/doi/10.1287/isre.2021.1003" target="_blank">Just DM Me (Politely):<br>Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets</a>
             <div class="pub-authors">Hong Y, Peng J, Burtch G, <strong>Huang N</strong></div>
             <div class="pub-meta">
               <span class="pub-journal">Information Systems Research</span>
@@ -420,7 +420,7 @@ nav_order: 1
         <div class="pub-item" data-journal="ISR">
           <span class="pub-num">16</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://pubsonline.informs.org/doi/10.1287/isre.2021.0999" target="_blank">Not Registered? Please Sign Up First: A Randomized Field Experiment on the Ex Ante Registration Request</a>
+            <a class="pub-title" href="https://pubsonline.informs.org/doi/10.1287/isre.2021.0999" target="_blank">Not Registered? Please Sign Up First:<br>A Randomized Field Experiment on the Ex Ante Registration Request</a>
             <div class="pub-authors"><strong>Huang N</strong>, Mojumder P, Sun T, Lv J, Golden J</div>
             <div class="pub-meta">
               <span class="pub-journal">Information Systems Research</span>
@@ -434,7 +434,7 @@ nav_order: 1
         <div class="pub-item" data-journal="ISR">
           <span class="pub-num">17</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2020.0974" target="_blank">Combating Procrastination on Massive Online Open Courses via Optimal Calls to Action</a>
+            <a class="pub-title" href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2020.0974" target="_blank">Combating Procrastination on Massive Online Open Courses<br>via Optimal Calls to Action</a>
             <div class="pub-authors"><strong>Huang N</strong>, Zhang J, Burtch G, Li X, Chen P</div>
             <div class="pub-meta">
               <span class="pub-journal">Information Systems Research</span>
@@ -448,7 +448,7 @@ nav_order: 1
         <div class="pub-item" data-journal="MISQ">
           <span class="pub-num">18</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://misq.umn.edu/designing-promotional-incentives-to-embrace-social-sharing-evidence-from-field-and-online-experiments.html" target="_blank">Designing Promotion Incentive to Embrace Social Sharing: Evidence from Field and Online Experiments</a>
+            <a class="pub-title" href="https://misq.umn.edu/designing-promotional-incentives-to-embrace-social-sharing-evidence-from-field-and-online-experiments.html" target="_blank">Designing Promotion Incentive to Embrace Social Sharing:<br>Evidence from Field and Online Experiments</a>
             <div class="pub-authors">Sun T, Viswanathan S, <strong>Huang N</strong>, Zheleva E</div>
             <div class="pub-meta">
               <span class="pub-journal">MIS Quarterly</span>
@@ -462,7 +462,7 @@ nav_order: 1
         <div class="pub-item" data-journal="ISR">
           <span class="pub-num">19</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2019.0896" target="_blank">Unemployment and Worker Participation in the Gig Economy: Evidence from an Online Labor Market</a>
+            <a class="pub-title" href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2019.0896" target="_blank">Unemployment and Worker Participation in the Gig Economy:<br>Evidence from an Online Labor Market</a>
             <div class="pub-authors"><strong>Huang N</strong>, Burtch G, Hong Y, Pavlou PA</div>
             <div class="pub-meta">
               <span class="pub-journal">Information Systems Research</span>
@@ -476,7 +476,7 @@ nav_order: 1
         <div class="pub-item" data-journal="ISR">
           <span class="pub-num">20</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2018.0832" target="_blank">Word-of-Mouth System Implementation and Customer Conversion: A Randomized Field Experiment</a>
+            <a class="pub-title" href="https://pubsonline.informs.org/doi/abs/10.1287/isre.2018.0832" target="_blank">Word-of-Mouth System Implementation and Customer Conversion:<br>A Randomized Field Experiment</a>
             <div class="pub-authors"><strong>Huang N</strong>, Sun T, Chen P, Golden J</div>
             <div class="pub-meta">
               <span class="pub-journal">Information Systems Research</span>
@@ -490,7 +490,7 @@ nav_order: 1
         <div class="pub-item" data-journal="MS">
           <span class="pub-num">21</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://pubsonline.informs.org/doi/10.1287/mnsc.2017.2944" target="_blank">Motivating User-Generated Content with Performance Feedback: Evidence from Randomized Field Experiments</a>
+            <a class="pub-title" href="https://pubsonline.informs.org/doi/10.1287/mnsc.2017.2944" target="_blank">Motivating User-Generated Content with Performance Feedback:<br>Evidence from Randomized Field Experiments</a>
             <div class="pub-authors"><strong>Huang N</strong>, Burtch G, Gu B, Hong Y, Liang C, Wang K, Fu D, Yang B</div>
             <div class="pub-meta">
               <span class="pub-journal">Management Science</span>
@@ -504,7 +504,7 @@ nav_order: 1
         <div class="pub-item" data-journal="other">
           <span class="pub-num">22</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://www.tandfonline.com/doi/abs/10.1080/07421222.2018.1550564" target="_blank">Spillover Effects of Financial Incentives on User Engagement: Evidence From an Online Knowledge Exchange Platform</a>
+            <a class="pub-title" href="https://www.tandfonline.com/doi/abs/10.1080/07421222.2018.1550564" target="_blank">Spillover Effects of Financial Incentives on User Engagement:<br>Evidence From an Online Knowledge Exchange Platform</a>
             <div class="pub-authors">Kuang L, <strong>Huang N</strong>, Hong Y, Yan Z</div>
             <div class="pub-meta">
               <span class="pub-journal">Journal of Management Information Systems</span>
@@ -518,7 +518,7 @@ nav_order: 1
         <div class="pub-item" data-journal="MISQ">
           <span class="pub-num">23</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://misq.org/social-network-integration-and-user-content-generation-evidence-from-natural-experiments.html" target="_blank">Social Network Integration and User Content Generation: Evidence from Natural Experiments</a>
+            <a class="pub-title" href="https://misq.org/social-network-integration-and-user-content-generation-evidence-from-natural-experiments.html" target="_blank">Social Network Integration and User Content Generation:<br>Evidence from Natural Experiments</a>
             <div class="pub-authors"><strong>Huang N</strong>, Hong Y, Burtch G</div>
             <div class="pub-meta">
               <span class="pub-journal">MIS Quarterly</span>
@@ -546,7 +546,7 @@ nav_order: 1
         <div class="pub-item" data-journal="other">
           <span class="pub-num">25</span>
           <div class="pub-body">
-            <a class="pub-title" href="https://doi.org/10.1016/j.jcps.2016.03.001" target="_blank">Effects of Multiple Psychological Distances on Construal and Consumer Evaluation: A Field Study of Online Reviews</a>
+            <a class="pub-title" href="https://doi.org/10.1016/j.jcps.2016.03.001" target="_blank">Effects of Multiple Psychological Distances on Construal and Consumer Evaluation:<br>A Field Study of Online Reviews</a>
             <div class="pub-authors"><strong>Huang N</strong>, Burtch G, Hong Y, Polman E</div>
             <div class="pub-meta">
               <span class="pub-journal">Journal of Consumer Psychology</span>

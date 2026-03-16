@@ -58,7 +58,7 @@ nav_order: 2
   display: grid;
   grid-template-columns: 44px 1fr auto;
   gap: 1.5rem;
-  padding: 1.5rem 0;
+  padding: 1.5rem 0 1.5rem 12px;
   border-bottom: 1px solid var(--line);
   align-items: start;
   position: relative;
@@ -67,8 +67,8 @@ nav_order: 2
   transition: opacity 0.4s ease, transform 0.4s ease, padding-left 0.25s ease;
 }
 
-.pub-item:first-child {
-  border-top: 1px solid var(--line);
+.pub-list .pub-item:first-child {
+  padding-top: 0;
 }
 
 .pub-item::before {
@@ -85,7 +85,7 @@ nav_order: 2
 }
 
 .pub-item:hover {
-  padding-left: 12px;
+  padding-left: 16px;
 }
 
 .pub-item:hover::before {
@@ -202,6 +202,14 @@ nav_order: 2
   width: 82px;
 }
 
+.talk-logo.logo-wide-5xl {
+  width: 86px;
+}
+
+.talk-logo.logo-wide-6xl {
+  width: 90px;
+}
+
 .talk-logo.logo-square {
   width: 50px;
 }
@@ -228,6 +236,10 @@ nav_order: 2
 
 .talk-logo.logo-square-4xl {
   width: 74px;
+}
+
+.talk-logo.logo-square-5xl {
+  width: 78px;
 }
 
 .talk-logo.logo-square-sm {
@@ -399,7 +411,7 @@ nav_order: 2
         <div class="pub-body">
           <a class="pub-title" href="https://warrington.ufl.edu/" target="_blank">Warrington College of Business, University of Florida</a>
           <div class="pub-meta">
-            <span class="pub-year">April 2023</span>
+            <span class="pub-year">April 2023, February 2026</span>
           </div>
         </div>
         <span class="pub-badge" data-logo-label="University of Florida" data-logo-src="/assets/img/talk-logos/florida.png"></span>
@@ -534,7 +546,7 @@ nav_order: 2
             <span class="pub-year">March 2019</span>
           </div>
         </div>
-        <span class="pub-badge" data-logo-label="Louisiana State University" data-logo-class="logo-wide-3xl" data-logo-src="/assets/img/talk-logos/lsu.png"></span>
+        <span class="pub-badge" data-logo-label="Louisiana State University" data-logo-class="logo-wide-6xl" data-logo-src="/assets/img/talk-logos/lsu.png"></span>
       </div>
 
       <div class="pub-item">
@@ -545,7 +557,7 @@ nav_order: 2
             <span class="pub-year">May 2018</span>
           </div>
         </div>
-        <span class="pub-badge" data-logo-label="Bentley University" data-logo-class="logo-square-4xl" data-logo-src="/assets/img/talk-logos/bentley.png"></span>
+        <span class="pub-badge" data-logo-label="Bentley University" data-logo-class="logo-square-5xl" data-logo-src="/assets/img/talk-logos/bentley.png"></span>
       </div>
 
       <div class="pub-item">
@@ -556,7 +568,7 @@ nav_order: 2
             <span class="pub-year">January 2017</span>
           </div>
         </div>
-        <span class="pub-badge" data-logo-label="Arizona State University" data-logo-class="logo-wide-4xl" data-logo-src="/assets/img/talk-logos/asu.png"></span>
+        <span class="pub-badge" data-logo-label="Arizona State University" data-logo-class="logo-wide-5xl" data-logo-src="/assets/img/talk-logos/asu.png"></span>
       </div>
 
       <div class="pub-item">
@@ -567,7 +579,7 @@ nav_order: 2
             <span class="pub-year">November 2015</span>
           </div>
         </div>
-        <span class="pub-badge" data-logo-label="New York University" data-logo-class="logo-wide-plus" data-logo-src="/assets/img/talk-logos/nyu.png"></span>
+        <span class="pub-badge" data-logo-label="New York University" data-logo-class="logo-wide-xl" data-logo-src="/assets/img/talk-logos/nyu.png"></span>
       </div>
     </div>
   </div>
