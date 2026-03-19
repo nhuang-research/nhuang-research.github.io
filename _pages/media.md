@@ -56,7 +56,7 @@ nav_order: 4
 
 .service-item {
   display: grid;
-  grid-template-columns: 44px 1fr auto;
+  grid-template-columns: 44px minmax(0, 1fr);
   gap: 1.5rem;
   padding: 1.5rem 0 1.5rem 12px;
   border-bottom: 1px solid var(--line);
@@ -172,6 +172,82 @@ nav_order: 4
   color: var(--orange);
 }
 
+.media-preview {
+  margin-top: 1rem;
+}
+
+.media-preview-frame {
+  display: block;
+  width: 100%;
+  height: 540px;
+  border: 0;
+}
+
+.media-preview-frame--spotify {
+  height: 352px;
+}
+
+.media-preview-frame--audio {
+  height: 115px;
+}
+
+.media-preview-image-link {
+  display: block;
+  text-decoration: none;
+}
+
+.media-preview-image {
+  display: block;
+  width: 100%;
+  height: 540px;
+  object-fit: cover;
+  object-position: top center;
+  background: #fff;
+}
+
+.media-preview-image--livestream {
+  object-position: center -8px;
+}
+
+.media-preview-image--ai-assistant {
+  object-position: center -24px;
+}
+
+.media-preview-image--labor-ai {
+  object-position: center top;
+}
+
+.media-preview-image--disappearing {
+  object-position: 56% top;
+}
+
+.media-preview-image--eurekalert {
+  object-position: center top;
+}
+
+.media-preview-image--miami-herbert-rankings {
+  object-position: center top;
+}
+
+.media-preview-image--gig-worker {
+  object-position: left top;
+}
+
+.media-preview-image--online-dating {
+  object-fit: cover;
+  object-position: center -18px;
+}
+
+.media-preview-image--words-to-sell {
+  object-position: center top;
+}
+
+.media-preview-image--online-shopping-repeat {
+  object-position: 58% 34%;
+  transform: scale(1.14);
+  transform-origin: center;
+}
+
 .nh-reveal {
   opacity: 0;
   transform: translateY(14px);
@@ -200,6 +276,11 @@ nav_order: 4
   .service-badge {
     display: none;
   }
+
+  .media-preview-frame,
+  .media-preview-image {
+    height: 420px;
+  }
 }
 </style>
 
@@ -215,6 +296,14 @@ nav_order: 4
             <span class="service-role"><em>Science Says</em></span>
             <span class="service-year">January 27, 2026</span>
           </div>
+          <div class="media-preview">
+            <iframe
+              class="media-preview-frame"
+              src="https://app.sciencesays.com/p/ask-users-to-register-at-the-start-not-the-end"
+              title="Preview of Ask Users to Register at the Start (Not the End)"
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
         </div>
         <span class="service-badge"></span>
       </div>
@@ -226,6 +315,17 @@ nav_order: 4
           <div class="service-meta">
             <span class="service-role"><em>News@TheU, University of Miami</em></span>
             <span class="service-year">October 8, 2025</span>
+          </div>
+          <div class="media-preview">
+            <a
+              class="media-preview-image-link"
+              href="https://news.miami.edu/miamiherbert/stories/2025/10/how-livestream-sellers-turn-data-into-split-second-decisions.html"
+              target="_blank">
+              <img
+                class="media-preview-image media-preview-image--livestream"
+                src="{{ '/assets/img/media-previews/livestream-sellers-preview.png' | relative_url }}"
+                alt="Preview of How Livestream Sellers Turn Data into Split-Second Decisions" />
+            </a>
           </div>
         </div>
         <span class="service-badge"></span>
@@ -239,6 +339,17 @@ nav_order: 4
             <span class="service-role"><em>News@TheU, University of Miami</em></span>
             <span class="service-year">August 12, 2025</span>
           </div>
+          <div class="media-preview">
+            <a
+              class="media-preview-image-link"
+              href="https://news.miami.edu/stories/2025/08/ai-assistant-for-online-shopping.html"
+              target="_blank">
+              <img
+                class="media-preview-image media-preview-image--ai-assistant"
+                src="{{ '/assets/img/media-previews/ai-assistant-preview.png' | relative_url }}"
+                alt="Preview of AI Assistant for Online Shopping" />
+            </a>
+          </div>
         </div>
         <span class="service-badge"></span>
       </div>
@@ -250,6 +361,17 @@ nav_order: 4
           <div class="service-meta">
             <span class="service-role"><em>News@TheU, University of Miami</em></span>
             <span class="service-year">June 11, 2025</span>
+          </div>
+          <div class="media-preview">
+            <a
+              class="media-preview-image-link"
+              href="https://news.miami.edu/stories/2025/06/labor-feeling-the-squeeze-from-ais-advance.html"
+              target="_blank">
+              <img
+                class="media-preview-image media-preview-image--labor-ai"
+                src="{{ '/assets/img/media-previews/labor-ai-advance-preview.png' | relative_url }}"
+                alt="Preview of Labor Feeling the Squeeze From AI's Advance" />
+            </a>
           </div>
         </div>
         <span class="service-badge"></span>
@@ -263,6 +385,17 @@ nav_order: 4
             <span class="service-role"><em>Futurity</em></span>
             <span class="service-year">April 5, 2024</span>
           </div>
+          <div class="media-preview">
+            <a
+              class="media-preview-image-link"
+              href="https://www.futurity.org/disappearing-photos-dating-apps-3203092-2/?utm_source=rss&utm_medium=rss&utm_campaign=disappearing-photos-dating-apps-3203092-2"
+              target="_blank">
+              <img
+                class="media-preview-image media-preview-image--disappearing"
+                src="{{ '/assets/img/media-previews/disappearing-photos-preview.png' | relative_url }}"
+                alt="Preview of Disappearing Photos Increase Dating App Matches" />
+            </a>
+          </div>
         </div>
         <span class="service-badge"></span>
       </div>
@@ -274,6 +407,17 @@ nav_order: 4
           <div class="service-meta">
             <span class="service-role"><em>EurekAlert!, Science News Releases</em></span>
             <span class="service-year">April 3, 2024</span>
+          </div>
+          <div class="media-preview">
+            <a
+              class="media-preview-image-link"
+              href="https://www.eurekalert.org/news-releases/1040017"
+              target="_blank">
+              <img
+                class="media-preview-image media-preview-image--eurekalert"
+                src="{{ '/assets/img/media-previews/eurekalert-vanishing-photos-preview.png' | relative_url }}"
+                alt="Preview of Study: Vanishing Photos Make Dating App Matches Multiply" />
+            </a>
           </div>
         </div>
         <span class="service-badge"></span>
@@ -299,6 +443,17 @@ nav_order: 4
             <span class="service-role"><em>Miami Herbert Stories, University of Miami Herbert Business School</em></span>
             <span class="service-year">August 8, 2023</span>
           </div>
+          <div class="media-preview">
+            <a
+              class="media-preview-image-link"
+              href="https://news.miami.edu/miamiherbert/stories/2023/08/miami-herbert-professors-shine-in-global-information-systems-rankings.html"
+              target="_blank">
+              <img
+                class="media-preview-image media-preview-image--miami-herbert-rankings"
+                src="{{ '/assets/img/media-previews/miami-herbert-rankings-preview.png' | relative_url }}"
+                alt="Preview of Miami Herbert Professors Shine in Global Information Systems Rankings" />
+            </a>
+          </div>
         </div>
         <span class="service-badge"></span>
       </div>
@@ -310,6 +465,17 @@ nav_order: 4
           <div class="service-meta">
             <span class="service-role"><em>Business Insider, Insider Inc.</em></span>
             <span class="service-year">January 22, 2023</span>
+          </div>
+          <div class="media-preview">
+            <a
+              class="media-preview-image-link"
+              href="https://www.businessinsider.com/recession-outlook-laid-off-workers-turn-to-gig-work-2023-1"
+              target="_blank">
+              <img
+                class="media-preview-image media-preview-image--gig-worker"
+                src="{{ '/assets/img/media-previews/business-insider-gig-worker-preview.png' | relative_url }}"
+                alt="Preview of Get Ready for a Gig-Worker Boom That Could Make It Harder for Contractors to Earn a Living" />
+            </a>
           </div>
         </div>
         <span class="service-badge"></span>
@@ -323,6 +489,14 @@ nav_order: 4
             <span class="service-role"><em>Poets&amp;Quants for Undergrads, Poets&amp;Quants</em></span>
             <span class="service-year">December 11, 2022</span>
           </div>
+          <div class="media-preview">
+            <iframe
+              class="media-preview-frame"
+              src="https://poetsandquantsforundergrads.com/news/2022-best-undergraduate-professors-nina-ni-huang-university-of-miami-herbert-business-school/"
+              title="Preview of 2022 Best Undergraduate Professors: Nina (Ni) Huang, University of Miami Herbert Business School"
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
         </div>
         <span class="service-badge"></span>
       </div>
@@ -335,6 +509,14 @@ nav_order: 4
             <span class="service-role"><em>This IS Research Podcast, Spotify</em></span>
             <span class="service-year">November 23, 2022</span>
           </div>
+          <div class="media-preview">
+            <iframe
+              class="media-preview-frame media-preview-frame--spotify"
+              src="https://open.spotify.com/embed/episode/2ztG1Ird6LCmTNFf4YdRfp"
+              title="Preview of Causality Meets Diversity"
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
         </div>
         <span class="service-badge"></span>
       </div>
@@ -346,6 +528,17 @@ nav_order: 4
           <div class="service-meta">
             <span class="service-role"><em>News@TheU, University of Miami</em></span>
             <span class="service-year">August 25, 2022</span>
+          </div>
+          <div class="media-preview">
+            <a
+              class="media-preview-image-link"
+              href="https://news.miami.edu/stories/2022/08/university-researchers-help-level-the-playing-field-of-online-dating.html"
+              target="_blank">
+              <img
+                class="media-preview-image media-preview-image--online-dating"
+                src="{{ '/assets/img/media-previews/online-dating-preview.png' | relative_url }}"
+                alt="Preview of University Researchers Help Level the Playing Field of Online Dating" />
+            </a>
           </div>
         </div>
         <span class="service-badge"></span>
@@ -371,6 +564,14 @@ nav_order: 4
             <span class="service-role"><em>Bauer Business Focus, Houston Public Media</em></span>
             <span class="service-year">February 22, 2021</span>
           </div>
+          <div class="media-preview">
+            <iframe
+              class="media-preview-frame media-preview-frame--audio"
+              src="https://embed.hpm.io/391998/391996"
+              title="Audio preview of Online Shopping: Register. Purchase. Repeat."
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"></iframe>
+          </div>
         </div>
         <span class="service-badge"></span>
       </div>
@@ -383,6 +584,17 @@ nav_order: 4
             <span class="service-role"><em>W. P. Carey Magazine, Arizona State University</em></span>
             <span class="service-year">2020</span>
           </div>
+          <div class="media-preview">
+            <a
+              class="media-preview-image-link"
+              href="https://wpcareymagazine.com/issue/autumn-2020/words-to-sell-by-word-of-mouth-systems-can-raise-online-profits/"
+              target="_blank">
+              <img
+                class="media-preview-image media-preview-image--words-to-sell"
+                src="{{ '/assets/img/media-previews/words-to-sell-preview.png' | relative_url }}"
+                alt="Preview of Words to Sell By: Word-of-Mouth Systems Can Raise Online Profits" />
+            </a>
+          </div>
         </div>
         <span class="service-badge"></span>
       </div>
@@ -393,7 +605,7 @@ nav_order: 4
           <div class="service-title"><a href="https://cloudapps.uh.edu/sendit/w/dTQKORPHoei6cuJWjexjjw/YnMQUW1VLUcjNrID5m0zPA/K7tlW4BPkWTFGLrAjYkerg" target="_blank">Bauer Researcher Examines Effectiveness of Promotional Incentives</a></div>
           <div class="service-meta">
             <span class="service-role"><em>University of Houston</em></span>
-            <span class="service-year">2020</span>
+            <span class="service-year">September 9, 2020</span>
           </div>
         </div>
         <span class="service-badge"></span>
@@ -405,7 +617,15 @@ nav_order: 4
           <div class="service-title"><a href="https://asunow.asu.edu/20170913-discoveries-how-can-apps-get-users-generate-content-asu-study-finds-gender-differences" target="_blank">How Can Apps Get Users to Generate Content? ASU Study Finds Gender Differences</a></div>
           <div class="service-meta">
             <span class="service-role"><em>Arizona State University</em></span>
-            <span class="service-year">2017</span>
+            <span class="service-year">September 13, 2017</span>
+          </div>
+          <div class="media-preview">
+            <iframe
+              class="media-preview-frame"
+              src="https://asunow.asu.edu/20170913-discoveries-how-can-apps-get-users-generate-content-asu-study-finds-gender-differences"
+              title="Preview of How Can Apps Get Users to Generate Content? ASU Study Finds Gender Differences"
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
         </div>
         <span class="service-badge"></span>
@@ -417,7 +637,15 @@ nav_order: 4
           <div class="service-title"><a href="https://asunow.asu.edu/20170307-discoveries-posting-yelp-reviews-facebook-changes-their-nature-asu-study-shows" target="_blank">Posting Yelp Reviews to Facebook Changes Their Nature, ASU Study Shows</a></div>
           <div class="service-meta">
             <span class="service-role"><em>Arizona State University</em></span>
-            <span class="service-year">2017</span>
+            <span class="service-year">March 7, 2017</span>
+          </div>
+          <div class="media-preview">
+            <iframe
+              class="media-preview-frame"
+              src="https://asunow.asu.edu/20170307-discoveries-posting-yelp-reviews-facebook-changes-their-nature-asu-study-shows"
+              title="Preview of Posting Yelp Reviews to Facebook Changes Their Nature, ASU Study Shows"
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
         </div>
         <span class="service-badge"></span>
@@ -429,7 +657,7 @@ nav_order: 4
           <div class="service-title"><a href="http://www.dinero.com/opinion/columnistas/articulo/como-saber-si-es-falso-u-original-pregunte-a-los-reviewers-por-maria-gonzalez/231308" target="_blank">How Can You Tell if It Is Fake or Original? Ask the Reviewers</a></div>
           <div class="service-meta">
             <span class="service-role"><em>Publicaciones Semana S.A.</em></span>
-            <span class="service-year">2016</span>
+            <span class="service-year">August 28, 2016</span>
           </div>
         </div>
         <span class="service-badge"></span>
@@ -441,7 +669,15 @@ nav_order: 4
           <div class="service-title"><a href="https://www.sciencedaily.com/releases/2016/05/160511080731.htm" target="_blank">How to Boost Online Ratings</a></div>
           <div class="service-meta">
             <span class="service-role"><em>Society for Consumer Psychology</em></span>
-            <span class="service-year">2016</span>
+            <span class="service-year">May 11, 2016</span>
+          </div>
+          <div class="media-preview">
+            <iframe
+              class="media-preview-frame"
+              src="https://www.sciencedaily.com/releases/2016/05/160511080731.htm"
+              title="Preview of How to Boost Online Ratings"
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
         </div>
         <span class="service-badge"></span>
@@ -453,7 +689,7 @@ nav_order: 4
           <div class="service-title"><a href="http://zeenews.india.com/news/net-news/long-wait-for-feedback-can-boost-service-ratings-online_1884161.html" target="_blank">Long Wait for Feedback Can Boost Service Ratings Online</a></div>
           <div class="service-meta">
             <span class="service-role"><em>Zee Media Bureau</em></span>
-            <span class="service-year">2016</span>
+            <span class="service-year">May 11, 2016</span>
           </div>
         </div>
         <span class="service-badge"></span>
@@ -465,7 +701,7 @@ nav_order: 4
           <div class="service-title"><a href="http://www.business-standard.com/article/news-ians/wait-longer-for-feedback-to-boost-service-ratings-online-116051100427_1.html" target="_blank">Wait Longer for Feedback to Boost Service Ratings Online</a></div>
           <div class="service-meta">
             <span class="service-role"><em>Business Standard Ltd</em></span>
-            <span class="service-year">2016</span>
+            <span class="service-year">May 11, 2016</span>
           </div>
         </div>
         <span class="service-badge"></span>
@@ -477,7 +713,7 @@ nav_order: 4
           <div class="service-title"><a href="http://www.spektrum.de/news/weiter-weg-und-laenger-her-gefaellt-uns-besser/1409908" target="_blank">Psychology: Further Away and Longer Ago Feels Better</a></div>
           <div class="service-meta">
             <span class="service-role"><em>Spektrum.de</em></span>
-            <span class="service-year">2016</span>
+            <span class="service-year">May 11, 2016</span>
           </div>
         </div>
         <span class="service-badge"></span>
