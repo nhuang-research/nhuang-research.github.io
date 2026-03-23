@@ -282,6 +282,78 @@ nav_order: 4
     height: 420px;
   }
 }
+
+@media (max-width: 560px) {
+  .nh-section {
+    gap: 0.9rem;
+  }
+
+  .nh-section-label {
+    font-size: 0.75rem;
+    letter-spacing: 0.14em;
+  }
+
+  .service-item {
+    grid-template-columns: 26px minmax(0, 1fr);
+    gap: 0.85rem;
+    padding: 1.1rem 0 1.1rem 8px;
+  }
+
+  .service-item:hover {
+    padding-left: 8px;
+  }
+
+  .service-item::before {
+    width: 1px;
+  }
+
+  .service-num {
+    padding-top: 3px;
+    padding-left: 0;
+    font-size: 0.9rem;
+  }
+
+  .service-body {
+    gap: 0.3rem;
+  }
+
+  .service-title {
+    font-size: 0.98rem;
+    line-height: 1.35;
+  }
+
+  .service-meta {
+    gap: 0.25rem 0.6rem;
+    margin-top: 0.05rem;
+  }
+
+  .service-role,
+  .service-year {
+    font-size: 0.84rem;
+    line-height: 1.35;
+  }
+
+  .service-year {
+    letter-spacing: 0.02em;
+  }
+
+  .media-preview {
+    margin-top: 0.75rem;
+  }
+
+  .media-preview-frame,
+  .media-preview-image {
+    height: 240px;
+  }
+
+  .media-preview-frame--spotify {
+    height: 232px;
+  }
+
+  .media-preview-frame--audio {
+    height: 96px;
+  }
+}
 </style>
 
 <div class="nh-research">
