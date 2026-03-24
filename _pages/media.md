@@ -17,6 +17,7 @@ nav_order: 4
   --text-mid: #666;
   --orange: #F47321;
   --green-hi: #00a060;
+  overflow-x: hidden;
 }
 
 .nav-item.active > .nav-link {
@@ -115,6 +116,7 @@ nav_order: 4
   display: flex;
   flex-direction: column;
   gap: 0.35rem;
+  min-width: 0;
 }
 
 .service-title {
@@ -122,6 +124,7 @@ nav_order: 4
   font-weight: 400;
   color: var(--text-hi);
   line-height: 1.5;
+  overflow-wrap: anywhere;
 }
 
 .service-title a {
@@ -147,6 +150,7 @@ nav_order: 4
   font-weight: 300;
   color: var(--text-mid);
   line-height: 1.5;
+  overflow-wrap: anywhere;
 }
 
 .service-year {
@@ -174,6 +178,8 @@ nav_order: 4
 
 .media-preview {
   margin-top: 1rem;
+  overflow: hidden;
+  border-radius: 14px;
 }
 
 .media-preview-frame {
@@ -271,15 +277,42 @@ nav_order: 4
 
   .service-item {
     grid-template-columns: 32px 1fr;
+    gap: 1rem;
+    padding: 1.2rem 0 1.2rem 10px;
   }
 
   .service-badge {
     display: none;
   }
 
+  .service-item:hover {
+    padding-left: 10px;
+  }
+
+  .service-title {
+    font-size: 0.98rem;
+    line-height: 1.4;
+  }
+
+  .service-meta {
+    gap: 0.35rem 0.7rem;
+  }
+
   .media-preview-frame,
   .media-preview-image {
-    height: 420px;
+    height: 300px;
+  }
+
+  .media-preview-frame--spotify {
+    height: 260px;
+  }
+
+  .media-preview-frame--audio {
+    height: 104px;
+  }
+
+  .media-preview-image--online-shopping-repeat {
+    transform: none;
   }
 }
 
@@ -323,7 +356,9 @@ nav_order: 4
   }
 
   .service-meta {
-    gap: 0.25rem 0.6rem;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.12rem;
     margin-top: 0.05rem;
   }
 
@@ -343,15 +378,15 @@ nav_order: 4
 
   .media-preview-frame,
   .media-preview-image {
-    height: 240px;
+    height: 210px;
   }
 
   .media-preview-frame--spotify {
-    height: 232px;
+    height: 220px;
   }
 
   .media-preview-frame--audio {
-    height: 96px;
+    height: 92px;
   }
 }
 </style>
