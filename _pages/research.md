@@ -171,6 +171,7 @@ nav_order: 1
 
 /* ── RESPONSIVE ── */
 @media (max-width: 760px) {
+  .nh-section--areas { display: none; }
   .nh-section { grid-template-columns: 1fr; gap: 1.25rem; }
   .nh-section-label { position: static; }
   .area-grid {
@@ -236,7 +237,7 @@ nav_order: 1
 <div class="nh-research">
 
   <!-- RESEARCH AREAS -->
-  <div class="nh-section nh-reveal">
+  <div class="nh-section nh-section--areas nh-reveal">
     <div class="nh-section-label">Research<br>Areas</div>
     <div class="area-grid">
       <div class="area-tag">Human-AI Interaction</div>
