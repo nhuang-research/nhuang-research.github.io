@@ -76,6 +76,7 @@ header.sticky-top {
   --green:    #00a060;
   margin-top: 2rem;
   font-size: 16px;
+  overflow-x: hidden;
 }
 
 .nh-section {
@@ -98,10 +99,12 @@ header.sticky-top {
 .nh-journal-group {
   display: flex; flex-direction: column;
   padding: 0 0 1rem;
+  min-width: 0;
 }
 .nh-desc {
   font-size: 16px; font-weight: 300;
   color: var(--text); line-height: 1.6; padding-bottom: 0.2rem;
+  overflow-wrap: anywhere;
 }
 .nh-desc a { color: var(--green); text-decoration: none; }
 .nh-desc a:hover { color: var(--orange); }
@@ -120,11 +123,13 @@ header.sticky-top {
   font-size: 16px; font-weight: 300;
   letter-spacing: 0.05em; color: var(--text-lo);
   padding-top: 0.15rem;
+  overflow-wrap: anywhere;
 }
-.nh-journals { display: flex; flex-direction: column; gap: 0.3rem; }
+.nh-journals { display: flex; flex-direction: column; gap: 0.3rem; min-width: 0; }
 .nh-journal-entry {
   font-size: 16px; font-weight: 300; font-style: italic;
   color: var(--text-hi); text-decoration: none; transition: color 0.2s;
+  overflow-wrap: anywhere;
 }
 .nh-journal-entry:hover { color: var(--orange); }
 
@@ -170,6 +175,32 @@ header.sticky-top {
   .nh-section { grid-template-columns: 1fr; gap: 1rem; padding-top: 2rem; }
   .nh-section-label { position: static; padding-bottom: 0.25rem; }
   .nh-journal-category { grid-template-columns: 1fr; gap: 0.5rem; }
+  .nh-journal-group,
+  .nh-awards,
+  .nh-logo-wrap,
+  .nh-connect { min-width: 0; }
+  .nh-logo-wrap img { max-width: 100%; height: auto; }
+}
+
+@media (max-width: 560px) {
+  .nh-section { gap: 0.8rem; }
+  .nh-section-label {
+    font-size: 0.75rem;
+    letter-spacing: 0.14em;
+    padding-bottom: 0.15rem;
+  }
+  .nh-desc,
+  .nh-awards,
+  .nh-cat-label,
+  .nh-journal-entry { font-size: 0.95rem; line-height: 1.5; }
+  .nh-journal-category { padding: 0.65rem 0; }
+  .nh-connect { gap: 0.45rem; }
+  .nh-connect-btn {
+    width: 100%;
+    text-align: center;
+    padding: 0.55rem 0.9rem;
+    font-size: 0.78rem;
+  }
 }
 </style>
 
@@ -287,4 +318,3 @@ reveals.forEach(function(r) { obs.observe(r); });
          style="height:auto; opacity:0.9;">
   </a>
 </div>
-

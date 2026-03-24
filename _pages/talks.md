@@ -17,6 +17,7 @@ nav_order: 2
   --text-mid: #666;
   --orange: #F47321;
   --green-hi: #00a060;
+  overflow-x: hidden;
 }
 
 .nav-item.active > .nav-link {
@@ -114,6 +115,7 @@ nav_order: 2
   display: flex;
   flex-direction: column;
   gap: 0.35rem;
+  min-width: 0;
 }
 
 .pub-title {
@@ -123,6 +125,7 @@ nav_order: 2
   line-height: 1.5;
   text-decoration: none;
   transition: color 0.2s;
+  overflow-wrap: anywhere;
 }
 
 .pub-title:hover {
@@ -142,6 +145,7 @@ nav_order: 2
   font-weight: 300;
   color: var(--text-mid);
   line-height: 1.5;
+  overflow-wrap: anywhere;
 }
 
 .pub-year {
@@ -273,10 +277,56 @@ nav_order: 2
 
   .pub-item {
     grid-template-columns: 32px 1fr;
+    gap: 1rem;
+    padding: 1.1rem 0 1.1rem 10px;
   }
 
   .pub-badge {
     display: none;
+  }
+}
+
+@media (max-width: 560px) {
+  .nh-section {
+    gap: 0.9rem;
+  }
+
+  .nh-section-label {
+    font-size: 0.75rem;
+    letter-spacing: 0.14em;
+  }
+
+  .pub-item {
+    grid-template-columns: 26px minmax(0, 1fr);
+    gap: 0.85rem;
+    padding: 0.95rem 0 0.95rem 8px;
+  }
+
+  .pub-item:hover {
+    padding-left: 8px;
+  }
+
+  .pub-num {
+    font-size: 0.72rem;
+    padding-top: 3px;
+  }
+
+  .pub-title {
+    font-size: 0.98rem;
+    line-height: 1.35;
+  }
+
+  .pub-meta {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.12rem;
+    margin-top: 0.05rem;
+  }
+
+  .pub-journal,
+  .pub-year {
+    font-size: 0.84rem;
+    line-height: 1.35;
   }
 }
 </style>

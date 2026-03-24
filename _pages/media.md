@@ -44,10 +44,12 @@ nav_order: 4
   letter-spacing: 0.18em;
   text-transform: uppercase;
   color: var(--text-lo);
-  padding-top: 0.2rem;
+  padding-top: 0;
   position: sticky;
-  top: 72px;
+  top: 0;
   height: fit-content;
+  margin-top: 0;
+  align-self: start;
 }
 
 .service-list {
@@ -59,7 +61,7 @@ nav_order: 4
   display: grid;
   grid-template-columns: 44px minmax(0, 1fr);
   gap: 1.5rem;
-  padding: 1.5rem 0 1.5rem 12px;
+  padding: 1.1rem 0 1.1rem 12px;
   border-bottom: 1px solid var(--line);
   align-items: start;
   position: relative;
@@ -115,7 +117,7 @@ nav_order: 4
 .service-body {
   display: flex;
   flex-direction: column;
-  gap: 0.35rem;
+  gap: 0.2rem;
   min-width: 0;
 }
 
@@ -123,7 +125,7 @@ nav_order: 4
   font-size: 1rem;
   font-weight: 400;
   color: var(--text-hi);
-  line-height: 1.5;
+  line-height: 1.4;
   overflow-wrap: anywhere;
 }
 
@@ -142,7 +144,7 @@ nav_order: 4
   align-items: center;
   gap: 0.75rem;
   flex-wrap: wrap;
-  margin-top: 0.15rem;
+  margin-top: 0.05rem;
 }
 
 .service-role {
@@ -180,6 +182,42 @@ nav_order: 4
   margin-top: 1rem;
   overflow: hidden;
   border-radius: 14px;
+}
+
+.media-preview-toggle {
+  align-self: flex-start;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 0.9rem;
+  width: 1.35rem;
+  height: 1.35rem;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--text-mid);
+  font-size: 0;
+  cursor: pointer;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.media-preview-toggle:hover {
+  color: var(--orange);
+}
+
+.media-preview-toggle::before {
+  content: "+";
+  font-size: 1.25rem;
+  font-weight: 300;
+  line-height: 1;
+  transform: translateY(-1px);
+  transition: transform 0.2s ease;
+}
+
+.media-preview-toggle.is-open::before {
+  content: "−";
+  transform: translateY(-1px);
 }
 
 .media-preview-frame {
@@ -273,12 +311,13 @@ nav_order: 4
 
   .nh-section-label {
     position: static;
+    margin-top: 0;
   }
 
   .service-item {
     grid-template-columns: 32px 1fr;
     gap: 1rem;
-    padding: 1.2rem 0 1.2rem 10px;
+    padding: 0.9rem 0 0.9rem 10px;
   }
 
   .service-badge {
@@ -329,7 +368,7 @@ nav_order: 4
   .service-item {
     grid-template-columns: 26px minmax(0, 1fr);
     gap: 0.85rem;
-    padding: 1.1rem 0 1.1rem 8px;
+    padding: 0.8rem 0 0.8rem 8px;
   }
 
   .service-item:hover {
@@ -373,6 +412,12 @@ nav_order: 4
   }
 
   .media-preview {
+    margin-top: 0.75rem;
+  }
+
+  .media-preview-toggle {
+    width: 1.2rem;
+    height: 1.2rem;
     margin-top: 0.75rem;
   }
 
@@ -832,6 +877,7 @@ nav_order: 4
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   const revealItems = document.querySelectorAll(".nh-reveal, .service-item");
+  const previews = document.querySelectorAll(".media-preview");
 
   const observer = new IntersectionObserver(
     (entries) => {
@@ -848,6 +894,38 @@ document.addEventListener("DOMContentLoaded", function () {
   revealItems.forEach((item, index) => {
     item.style.transitionDelay = `${index * 25}ms`;
     observer.observe(item);
+  });
+
+  previews.forEach((preview, index) => {
+    const toggle = document.createElement("button");
+    const previewId = `media-preview-${index + 1}`;
+    const containsAudio = preview.querySelector(".media-preview-frame--audio, .media-preview-frame--spotify");
+
+    preview.id = previewId;
+    preview.hidden = true;
+
+    toggle.type = "button";
+    toggle.className = "media-preview-toggle";
+    toggle.setAttribute("aria-controls", previewId);
+    toggle.setAttribute("aria-expanded", "false");
+    toggle.setAttribute("aria-label", containsAudio ? "Show player" : "Show preview");
+    toggle.title = containsAudio ? "Show player" : "Show preview";
+
+    toggle.addEventListener("click", () => {
+      const isOpen = toggle.getAttribute("aria-expanded") === "true";
+
+      preview.hidden = isOpen;
+      toggle.setAttribute("aria-expanded", String(!isOpen));
+      toggle.classList.toggle("is-open", !isOpen);
+      toggle.setAttribute("aria-label", containsAudio
+        ? (isOpen ? "Show player" : "Hide player")
+        : (isOpen ? "Show preview" : "Hide preview"));
+      toggle.title = containsAudio
+        ? (isOpen ? "Show player" : "Hide player")
+        : (isOpen ? "Show preview" : "Hide preview");
+    });
+
+    preview.parentNode.insertBefore(toggle, preview);
   });
 });
 </script>
