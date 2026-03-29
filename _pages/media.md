@@ -196,14 +196,14 @@ nav_order: 4
   border: 0;
   border-radius: 0;
   background: transparent;
-  color: var(--text-mid);
+  color: var(--green-hi);
   font-size: 0;
   cursor: pointer;
   transition: color 0.2s ease, transform 0.2s ease;
 }
 
 .media-preview-toggle:hover {
-  color: var(--orange);
+  color: var(--green-hi);
 }
 
 .media-preview-toggle::before {

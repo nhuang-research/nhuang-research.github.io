@@ -653,7 +653,7 @@ nav_order: 3
           <div class="service-body">
             <div class="service-title">Qinlu Hu (2026), Assistant Professor, NOVA School of Business and Economics</div>
             <div class="service-meta">
-              <span class="service-role">Co-Advisor</span>
+              <span class="service-role">Doctoral Co-Advisor</span>
             </div>
           </div>
           <span class="service-badge"></span>
@@ -675,7 +675,7 @@ nav_order: 3
           <div class="service-body">
             <div class="service-title">Yumei He (2022), Assistant Professor, A. B. Freeman School of Business, Tulane University</div>
             <div class="service-meta">
-              <span class="service-role">Postdoc Advisor</span>
+              <span class="service-role">Postdoctoral Advisor</span>
             </div>
           </div>
           <span class="service-badge"></span>
@@ -686,7 +686,7 @@ nav_order: 3
           <div class="service-body">
             <div class="service-title">Lingli Wang (2021), Associate Professor, Renmin University of China</div>
             <div class="service-meta">
-              <span class="service-role">External Advisor</span>
+              <span class="service-role">External Doctoral Advisor</span>
             </div>
           </div>
           <span class="service-badge"></span>
