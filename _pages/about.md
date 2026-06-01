@@ -223,7 +223,7 @@ header.sticky-top {
 })();
 </script>
 
-<p> <a href="https://people.miami.edu/profile/nxh558@miami.edu/" style="color:#00a060;"> Nina Huang </a> is the Dennis & Smith Family Endowed Chair Professor of Business Technology at the Miami Herbert Business School, University of Miami, Florida. </p>
+<p> <a href="https://people.miami.edu/profile/nxh558@miami.edu/" style="color:#00a060;"> Nina Huang </a> is Department Chair and Dennis & Smith Family Endowed Chair Professor of Business Technology at the Miami Herbert Business School, University of Miami, Florida. </p>
 
 <p> Dr. Huang's expertise centers on understanding how digital technology can enhance user experiences and improve business outcomes. Her research program covers a range of digital contexts, including live streaming, online dating, online learning, online healthcare, mobile applications, and digital commerce.</p> 
 
