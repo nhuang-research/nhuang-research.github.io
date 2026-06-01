@@ -51,6 +51,11 @@ social: false # includes social icons at the bottom of the page
 }
 @keyframes nhSpin { to { transform: rotate(360deg); } }
 
+/* Keep the bottom content clear of the floated portrait. */
+.post article > .profile.float-right {
+  margin-top: -0.75rem;
+}
+
 /* ── SUBTITLE LINK COLOR ── */
 .page-description a, .post-description a {
   color: #F47321 !important;
@@ -76,7 +81,7 @@ header.sticky-top {
   --green:    #00a060;
   margin-top: 2rem;
   font-size: 16px;
-  overflow-x: hidden;
+  overflow-x: clip;
 }
 
 .nh-section {
