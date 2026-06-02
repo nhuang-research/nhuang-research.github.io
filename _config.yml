@@ -285,6 +285,10 @@ sass:
 
 jekyll-minifier:
   exclude: ["robots.txt", "assets/js/search/*.js", "assets/libs/**/*"]
+  # cssminify2 on inline <style> blocks is pathologically slow (~130s of the build) for
+  # negligible payload gain (+0.3% gzipped). HTML whitespace removal and JS minification
+  # are unaffected; linked CSS is still compressed by Sass (style: compressed).
+  compress_css: false
   uglifier_args:
     harmony: true
 

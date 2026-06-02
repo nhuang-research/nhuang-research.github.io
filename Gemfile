@@ -1,4 +1,8 @@
 source 'https://rubygems.org'
+# Formerly-default gems that leave Ruby's stdlib in 3.4 (observer) / 3.5 (ostruct).
+# Pinning them here silences the load warnings and future-proofs the build.
+gem 'observer'
+gem 'ostruct'
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
