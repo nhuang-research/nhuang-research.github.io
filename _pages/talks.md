@@ -503,7 +503,7 @@ nav_order: 2
       <div class="pub-item">
         <span class="pub-num">16</span>
         <div class="pub-body">
-          <a class="pub-title" href="https://herbert.miami.edu/" target="_blank">Miami Herbert Business School, University of Miami</a>
+          <a class="pub-title" href="https://herbert.miami.edu/" target="_blank">University of Miami Business School</a>
           <div class="pub-meta">
             <span class="pub-year">November 2021</span>
           </div>

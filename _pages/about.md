@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://people.miami.edu/profile/7abce556c6974d74e71c89fb865e4553' style='color:#F47321;'>University of Miami Herbert Business School</a>
+subtitle: University of Miami Business School
 
 profile:
   align: right
@@ -228,7 +228,7 @@ header.sticky-top {
 })();
 </script>
 
-<p> <a href="https://people.miami.edu/profile/nxh558@miami.edu/" style="color:#00a060;"> Nina Huang </a> is the Department Chair of Business Technology and Dennis & Smith Family Endowed Chair Professor at the Miami Herbert Business School, University of Miami, Florida. Dr. Huang's expertise centers on understanding how digital technology can enhance user experiences and improve business outcomes. Her research program covers a range of digital contexts, including live streaming, online dating, online learning, online healthcare, mobile applications, and digital commerce.</p> 
+<p> <a href="https://people.miami.edu/profile/nxh558@miami.edu/" style="color:#00a060;"> Nina Huang </a> is the Department Chair of Business Technology and Dennis & Smith Family Endowed Chair Professor at the University of Miami Business School, Florida. Dr. Huang's expertise centers on understanding how digital technology can enhance user experiences and improve business outcomes. Her research program covers a range of digital contexts, including live streaming, online dating, online learning, online healthcare, mobile applications, and digital commerce.</p>
 
 <p> Nina currently serves as a Senior Editor at <em>Production and Operations Management</em> and an Associate Editor at <em>Information Systems Research</em>. She previously served as the Vice President of INFORMS Information Systems Society from 2023 to 2025 and an Associate Editor at <em>MIS Quarterly</em> from 2021 to 2024.</p>
 
@@ -315,9 +315,9 @@ reveals.forEach(function(r) { obs.observe(r); });
 <!-- ADD LOGO HERE -->
 <div style="text-align:left; margin-top:30px; padding-left:5px;">
   <a href="https://www.herbert.miami.edu" target="_blank" rel="noopener">
-    <img src="/assets/img/UM-H-BUS-miami Herbert business school-RGB.png" 
-         alt="Miami Herbert Business School logo" 
-         width="160" 
+    <img src="/assets/img/UM-BUS-business-school-RGB.png"
+         alt="University of Miami Business School logo"
+         width="160"
          style="height:auto; opacity:0.9;">
   </a>
 </div>
